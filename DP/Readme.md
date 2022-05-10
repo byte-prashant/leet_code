@@ -5,5 +5,9 @@ combinations  solutions
     when that subprob reccur
  3) we can further optimize it using tabulation, where we solve small sub problems and then these solution
    are used to get the the ans of original problem
- 4)  we can also use greedy algorihtm sometime (where we want to get optimized ans (max/min/largest/smallest))
+ 4) we can also use greedy algorihtm sometime (where we want to get optimized ans (max/min/largest/smallest))
+
+-
+POINTS--
+1) try to find the similar core recursive problem/solution it will help to write the bottom up problem
 .....will work on content
