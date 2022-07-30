@@ -1,3 +1,8 @@
+brute-focre--> all combinations--> if  overlapping subproblems, optimal substructure--> dp
+if optimal substructure--> gredy
+if states are limited or event limited==> finite state machine
+
+
 Way to solve dp problem---
  1) In recursion problems, where we find brute force algorithms will always look for all 
 combinations  solutions 
