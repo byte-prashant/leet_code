@@ -23,3 +23,5 @@ solutions to leet code problem
 11. Sliding Window Patterns: https://lnkd.in/gb5NeskQ
 
 12. Monotonic Stack Pattern: https://lnkd.in/gdYahWVN
+    
+13. Binary sarch https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
