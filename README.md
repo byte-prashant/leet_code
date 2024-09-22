@@ -44,9 +44,15 @@ solutions to leet code problem
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
