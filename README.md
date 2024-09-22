@@ -32,6 +32,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/byte-prashant/leet_code/tree/master/0015-3sum) |
+| [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,12 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/byte-prashant/leet_code/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
