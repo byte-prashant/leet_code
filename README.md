@@ -44,6 +44,7 @@ solutions to leet code problem
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -55,4 +56,12 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
