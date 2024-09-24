@@ -44,6 +44,46 @@ class Solution:
         return new_head.next
 
 
+    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+
+        def print_linked_list(head):
+            print("------linked list")
+            nums = []
+            while head:
+                nums.append(head.val)
+                head = head.next
+            print(nums)
+
+        def mutate_list():
+            dummy = ListNode(None, head)
+            count = 0
+            left= 0
+            ptr = head
+            ktail = dummy
+            while ptr:
+
+                c = left
+                while ptr and c<left+k:
+                    ptr=ptr.next
+                    c+=1
+
+                if not c  == left+k:
+                    break
+                curr = ktail.next
+                for i in range(left+k-left-1):
+                    #print_linked_list(dummy)
+                    node_to_move = curr.next
+                    curr.next = node_to_move.next
+                    node_to_move.next = ktail.next
+                    ktail.next = node_to_move
+
+                ktail = curr
+               
+                
+                left= left+k
+            return dummy.next
+
+        return mutate_list()
 
             
 
