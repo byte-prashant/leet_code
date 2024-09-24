@@ -31,6 +31,7 @@ solutions to leet code problem
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/byte-prashant/leet_code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/byte-prashant/leet_code/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
@@ -76,6 +77,7 @@ solutions to leet code problem
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/byte-prashant/leet_code/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
