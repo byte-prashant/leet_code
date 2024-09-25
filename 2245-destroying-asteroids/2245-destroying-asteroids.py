@@ -31,7 +31,7 @@ class Solution:
        
         return False
 
-    def asteroidsDestroyed(self, mass: int, asteroids: List[int]) -> bool:
+    def asteroidsDestroyed1(self, mass: int, asteroids: List[int]) -> bool:
         asteroids.sort()
         for asteroid in asteroids:
             if mass >= asteroid:
@@ -41,7 +41,7 @@ class Solution:
         return True
 
 
-    def asteroidsDestroyed(self, mass: int, asteroids: List[int]) -> bool:
+    def asteroidsDestroyed1(self, mass: int, asteroids: List[int]) -> bool:
         import heapq
         heapq.heapify(asteroids)
         for i in range(len(asteroids)):
