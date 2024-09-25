@@ -39,3 +39,14 @@ class Solution:
             else:
                 return False
         return True
+
+
+    def asteroidsDestroyed(self, mass: int, asteroids: List[int]) -> bool:
+        import heapq
+        heapq.heapify(asteroids)
+        for i in range(len(asteroids)):
+            next_asteroid = heapq.heappop(asteroids)
+            if next_asteroid > mass:
+                return False
+            mass += next_asteroid
+        return True
