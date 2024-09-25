@@ -42,6 +42,7 @@ solutions to leet code problem
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/byte-prashant/leet_code/tree/master/0485-max-consecutive-ones) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ solutions to leet code problem
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,12 @@ solutions to leet code problem
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/byte-prashant/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/byte-prashant/leet_code/tree/master/0206-reverse-linked-list) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
