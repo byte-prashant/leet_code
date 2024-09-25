@@ -1,6 +1,8 @@
 class Solution:
     import bisect
+
     def asteroidsDestroyed(self, mass: int, asteroids: List[int]) -> bool:
+
         
         asteroids = sorted(asteroids)
         print(asteroids)
@@ -28,3 +30,12 @@ class Solution:
 
        
         return False
+
+    def asteroidsDestroyed(self, mass: int, asteroids: List[int]) -> bool:
+        asteroids.sort()
+        for asteroid in asteroids:
+            if mass >= asteroid:
+                mass += asteroid
+            else:
+                return False
+        return True
