@@ -3,9 +3,9 @@ class Solution:
 
         def sol(k):
             ans =[[1]]
-            if k>=2:
-                ans =[[1],[1,1]]
-            while(k>2):
+            # if k>=2:
+            #     ans =[[1],[1,1]]
+            while(k>1):
 
                 row = [1]
                 prev_row = ans[-1]
