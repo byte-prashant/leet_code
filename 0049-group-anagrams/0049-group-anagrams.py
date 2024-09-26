@@ -18,3 +18,18 @@ class Solution:
                 dp[curr_ana] = pos
 
         return groups
+
+
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+
+        dp = defaultdict(list)
+
+        for s in strs:
+            new_str = "".join(sorted(s))
+            dp[new_str].append(s)
+
+
+        return list(dp.values())
+
+
+
