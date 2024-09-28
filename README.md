@@ -38,6 +38,7 @@ solutions to leet code problem
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/byte-prashant/leet_code/tree/master/0228-summary-ranges) |
@@ -117,6 +118,7 @@ solutions to leet code problem
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/byte-prashant/leet_code/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
@@ -151,6 +153,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
