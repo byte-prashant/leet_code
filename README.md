@@ -34,6 +34,7 @@ solutions to leet code problem
 | [0001-two-sum](https://github.com/byte-prashant/leet_code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/byte-prashant/leet_code/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/byte-prashant/leet_code/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
@@ -115,6 +116,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/byte-prashant/leet_code/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
