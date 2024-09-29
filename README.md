@@ -74,6 +74,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/byte-prashant/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/byte-prashant/leet_code/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
