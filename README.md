@@ -103,6 +103,7 @@ solutions to leet code problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/byte-prashant/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
@@ -144,6 +145,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/byte-prashant/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/byte-prashant/leet_code/tree/master/0206-reverse-linked-list) |
 ## Queue
 |  |
@@ -163,4 +165,12 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
