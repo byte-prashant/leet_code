@@ -21,4 +21,23 @@ class Solution:
         find_subs(0,[])
         return ans
 
+
+
+def subsets(self, nums: List[int]) -> List[List[int]]:
+
+        ans = []
+        def backtrack(num, curr):
+            ans.append(curr[:])
+            if num>=len(nums):
+                return
+
+            for l in range(num, n+1):
+                curr.append(nums[l])
+                backtrack(l+1, curr)
+                curr.pop()
+            return
+
+        backtrack(0, [])
+        return ans
+
             
