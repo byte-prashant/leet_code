@@ -29,7 +29,7 @@ class Solution:
         return  [keys for keys in res.keys()]
 
         def sol():
-            candidates.sort()
+            #candidates.sort()
             ret = []
 
             def visit(idx, target, arr):
