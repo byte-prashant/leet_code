@@ -40,4 +40,22 @@ def subsets(self, nums: List[int]) -> List[List[int]]:
         backtrack(0, [])
         return ans
 
+
+
+def subsets(self, nums: List[int]) -> List[List[int]]:
+
+        ans = []
+        def backtrack(num, curr):
+            ans.append(curr[:])
+            if num>=len(nums):
+                return
+
+            not_include = backtrack(num+1, curr)
+            curr.append(nums[l])
+            include = backtrack(l+1, curr)
+            curr.pop()
+            return
+
+        backtrack(0, [])
+        return ans
             
