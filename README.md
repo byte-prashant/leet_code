@@ -37,6 +37,7 @@ solutions to leet code problem
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/byte-prashant/leet_code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/byte-prashant/leet_code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
@@ -182,6 +183,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/byte-prashant/leet_code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
