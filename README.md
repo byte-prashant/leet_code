@@ -40,6 +40,7 @@ solutions to leet code problem
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/byte-prashant/leet_code/tree/master/0162-find-peak-element) |
@@ -176,4 +177,12 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
