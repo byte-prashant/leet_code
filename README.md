@@ -85,6 +85,7 @@ solutions to leet code problem
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
+| [0459-repeated-substring-pattern](https://github.com/byte-prashant/leet_code/tree/master/0459-repeated-substring-pattern) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -191,4 +192,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/byte-prashant/leet_code/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
