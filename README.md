@@ -224,5 +224,6 @@ solutions to leet code problem
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/byte-prashant/leet_code/tree/master/0620-not-boring-movies) |
 | [1908-recyclable-and-low-fat-products](https://github.com/byte-prashant/leet_code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
