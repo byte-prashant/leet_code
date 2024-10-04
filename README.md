@@ -221,4 +221,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/byte-prashant/leet_code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
