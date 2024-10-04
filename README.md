@@ -225,5 +225,6 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/byte-prashant/leet_code/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/byte-prashant/leet_code/tree/master/1390-average-selling-price) |
 | [1908-recyclable-and-low-fat-products](https://github.com/byte-prashant/leet_code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
