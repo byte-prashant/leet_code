@@ -75,6 +75,7 @@ class Solution:
             if i ==0:
                 curr_max = nums[0]
             else:
+                # we are only using previous value of dp
                 curr_max = max(nums[i], dp[i-1]+nums[i])
 
             dp[i] = curr_max
@@ -85,6 +86,23 @@ class Solution:
         
         return max_sum
 
+
+    def maxSubArray(self, nums: List[int]) -> int:
+        max_sum = max(float("-inf"), nums[0])
+        
+        dp = nums[0]
+        for i in range(1,len(nums)):
+            # for all sub arrays ending at index i
+            
+            curr_max = max(nums[i], dp+nums[i])
+
+            dp = curr_max
+            max_sum = max(max_sum, curr_max)
+
+            #print(max_sum)
+
+        
+        return max_sum
 
 
    
