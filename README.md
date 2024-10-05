@@ -40,6 +40,7 @@ solutions to leet code problem
 | [0040-combination-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/byte-prashant/leet_code/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
@@ -189,6 +190,7 @@ solutions to leet code problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -231,4 +233,8 @@ solutions to leet code problem
 | [0620-not-boring-movies](https://github.com/byte-prashant/leet_code/tree/master/0620-not-boring-movies) |
 | [1390-average-selling-price](https://github.com/byte-prashant/leet_code/tree/master/1390-average-selling-price) |
 | [1908-recyclable-and-low-fat-products](https://github.com/byte-prashant/leet_code/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
