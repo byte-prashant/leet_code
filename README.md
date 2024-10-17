@@ -89,6 +89,7 @@ solutions to leet code problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/byte-prashant/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/byte-prashant/leet_code/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/byte-prashant/leet_code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/byte-prashant/leet_code/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
@@ -119,6 +120,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/byte-prashant/leet_code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 ## Hash Table
@@ -127,6 +129,7 @@ solutions to leet code problem
 | [0001-two-sum](https://github.com/byte-prashant/leet_code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/byte-prashant/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/byte-prashant/leet_code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
