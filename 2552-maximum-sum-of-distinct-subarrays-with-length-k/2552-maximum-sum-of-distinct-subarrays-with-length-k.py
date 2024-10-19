@@ -95,19 +95,19 @@ class Solution:
 
         def sol3(k):
 
-            res, cur, pos, dup = 0, 0, [-1] * 100001, -1
+            res, cur, pos, left = 0, 0, [-1] * 100001, -1
             for i in range(0, len(nums)):
                 cur += nums[i]
                 if i >= k:
                     cur -= nums[i - k]
-                dup = max(dup, pos[nums[i]])
-                if i - dup >= k:
+                left = max(left, pos[nums[i]])
+                if i - left >= k:
                     res = max(cur, res)
                 pos[nums[i]] = i
             return res
 
 
-        return sol1(k)
+        return sol3(k)
 
         
 
