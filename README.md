@@ -53,6 +53,7 @@ solutions to leet code problem
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/byte-prashant/leet_code/tree/master/0485-max-consecutive-ones) |
@@ -174,6 +175,7 @@ solutions to leet code problem
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/byte-prashant/leet_code/tree/master/0162-find-peak-element) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
@@ -251,10 +253,12 @@ solutions to leet code problem
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Database
 |  |
@@ -267,8 +271,17 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/byte-prashant/leet_code/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
