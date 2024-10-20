@@ -74,6 +74,7 @@ solutions to leet code problem
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ solutions to leet code problem
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
+| [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -187,6 +189,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -229,6 +232,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -284,4 +288,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
