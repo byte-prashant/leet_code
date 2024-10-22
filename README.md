@@ -100,6 +100,7 @@ solutions to leet code problem
 | [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/byte-prashant/leet_code/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/byte-prashant/leet_code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
