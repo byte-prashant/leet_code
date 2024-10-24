@@ -70,5 +70,27 @@ class Solution:
 
 
 
+class Solution:
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        q = [root]
+
+        while q:
+            curr = q.pop()
+            if curr.left:
+                q.append(curr)
+                q.append(curr.left)
+                curr.left = None
+            else:
+                if curr.right:
+                    q.append(curr.right)
+                
+                k -= 1
+                if not k:
+                    return curr.val
+            
+        return
+
+
+
 
         
