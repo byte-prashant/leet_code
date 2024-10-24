@@ -37,34 +37,36 @@ class Solution:
         return  result[k-1] if k<=len(result) else -1
 
 
-
+# decresing the space complexity
 
         
-# class Solution:
-#     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+class Solution:
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
 
-#         elem = [-1]
-#         count = [k-1]
-#         def sol(root):
-#             if not root:
-#                 return
+        elem = [-1]
+        count = [k]
+        def sol(root):
+            if not root or count[0]==0:
+                return
 
-#             if root.left:
-#                 count[0]-=1
-#                 sol(root.left)
+            if root.left:
+                sol(root.left)
+           
+            count[0]-=1
+            if count[0]==0:
+                elem[0] = root.val
+               
 
-#             if count[0]==0:
-#                 elem[0] = root.val
+            if root.right:
+                
+                sol(root.right)
 
-#             if root.right:
-#                 count[0]-=1
-#                 sol(root.right)
-
-#             return
+            return
 
 
-#         sol(root)
-#         return elem[0]
+        sol(root)
+       
+        return elem[0] 
 
 
 
