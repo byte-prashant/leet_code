@@ -66,6 +66,7 @@ solutions to leet code problem
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1833-find-the-highest-altitude](https://github.com/byte-prashant/leet_code/tree/master/1833-find-the-highest-altitude) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/byte-prashant/leet_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/byte-prashant/leet_code/tree/master/2478-longest-nice-subarray) |
@@ -208,6 +209,7 @@ solutions to leet code problem
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/byte-prashant/leet_code/tree/master/1833-find-the-highest-altitude) |
 ## Linked List
 |  |
 | ------- |
