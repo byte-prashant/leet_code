@@ -7,9 +7,9 @@ class Solution:
            
             left_product[index] = left_product[index-1]*nums[index-1]
         right =1
-        print(left_product)
+       
         ans[len(nums)-1]= left_product[len(nums)-1]
-        
+
         for index in range(len(nums)-2,-1,-1):
             
             right = nums[index+1]*right
