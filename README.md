@@ -83,6 +83,7 @@ solutions to leet code problem
 | [0283-move-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ solutions to leet code problem
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
 | [2890-count-substrings-without-repeating-character](https://github.com/byte-prashant/leet_code/tree/master/2890-count-substrings-without-repeating-character) |
 ## Stack
