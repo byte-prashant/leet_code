@@ -50,6 +50,7 @@ solutions to leet code problem
 | [0162-find-peak-element](https://github.com/byte-prashant/leet_code/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/byte-prashant/leet_code/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/byte-prashant/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0283-move-zeroes) |
@@ -222,6 +223,7 @@ solutions to leet code problem
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/byte-prashant/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/byte-prashant/leet_code/tree/master/0724-find-pivot-index) |
