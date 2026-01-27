@@ -284,6 +284,7 @@ solutions to leet code problem
 | [0040-combination-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/byte-prashant/leet_code/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -335,6 +336,7 @@ solutions to leet code problem
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/byte-prashant/leet_code/tree/master/0543-diameter-of-binary-tree) |
@@ -342,6 +344,7 @@ solutions to leet code problem
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/byte-prashant/leet_code/tree/master/0543-diameter-of-binary-tree) |
@@ -349,6 +352,7 @@ solutions to leet code problem
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/byte-prashant/leet_code/tree/master/0543-diameter-of-binary-tree) |
