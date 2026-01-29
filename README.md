@@ -340,6 +340,7 @@ solutions to leet code problem
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/byte-prashant/leet_code/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/byte-prashant/leet_code/tree/master/0687-longest-univalue-path) |
 | [0975-range-sum-of-bst](https://github.com/byte-prashant/leet_code/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -348,6 +349,7 @@ solutions to leet code problem
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/byte-prashant/leet_code/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/byte-prashant/leet_code/tree/master/0687-longest-univalue-path) |
 | [0975-range-sum-of-bst](https://github.com/byte-prashant/leet_code/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -356,6 +358,7 @@ solutions to leet code problem
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/byte-prashant/leet_code/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/byte-prashant/leet_code/tree/master/0687-longest-univalue-path) |
 | [0975-range-sum-of-bst](https://github.com/byte-prashant/leet_code/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
