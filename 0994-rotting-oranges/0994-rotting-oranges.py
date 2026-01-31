@@ -30,6 +30,8 @@ class Solution:
                             queue.append((new_r,new_c))
                 if orange_rotten:
                     minute+=1
+                if not orange_rotten and fresh_orange>0:
+                    return None
             if fresh_orange ==0:
                 return minute
             else:
