@@ -52,6 +52,8 @@ class Solution:
 
         all_minutes = []
         all_rotten_orages,fresh_orange = find_rotten_oranges(grid)
+        if not fresh_orange:
+            return 0
         for row, col in all_rotten_orages:
             queue = all_rotten_orages
             minutes = bfs(queue,fresh_orange)
