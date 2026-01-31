@@ -5,7 +5,7 @@ class Solution:
        
        
         def is_valid(row,col,visited):
-            if row>=0 and row<len(grid) and col>=0 and col<len(grid[0]) and grid[row][col]!=0 and not (row,col) in visited:
+            if row>=0 and row<len(grid) and col>=0 and col<len(grid[0]) and grid[row][col]!=0 and  grid[row][col]==1 and not (row,col) in visited:
                 return True
 
         def bfs(queue,fresh_orange):
