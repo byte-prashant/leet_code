@@ -52,16 +52,20 @@ class Solution:
             return ans
 
         def sol():
+           
             dp = {}
             ans = 0
             left = 0
             for right in range(len(s)):
+                
                 if s[right] in dp:
 
-                    left = max(dp[s[right]],left)
+                    left = max(dp[s[right]]+1,left)
                 ans = max(ans,right-left+1)
 
-                dp[s[right]] = right+1
+                dp[s[right]] = right
+
+           
 
             return ans
 
