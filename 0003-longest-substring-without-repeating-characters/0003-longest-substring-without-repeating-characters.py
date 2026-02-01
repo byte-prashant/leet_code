@@ -35,6 +35,7 @@ class Solution:
             return max_len
 
         def sol():
+            print("oi")
             str_len = len(s)
             dp = {}
             ans =0
@@ -47,6 +48,20 @@ class Solution:
                 ans = max(ans, j-i+1)
                 dp[s[j]] = j+1
 
+
+            return ans
+
+        def sol():
+            dp = {}
+            ans = 0
+            left = 0
+            for right in range(len(s)):
+                if s[right] in dp:
+
+                    left = max(dp[s[right]],left)
+                ans = max(ans,right-left+1)
+
+                dp[s[right]] = right+1
 
             return ans
 
