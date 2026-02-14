@@ -45,6 +45,7 @@ solutions to leet code problem
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/byte-prashant/leet_code/tree/master/0162-find-peak-element) |
@@ -163,6 +164,7 @@ solutions to leet code problem
 | [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -323,6 +325,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Trie
 |  |
@@ -343,6 +346,7 @@ solutions to leet code problem
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
@@ -367,6 +371,7 @@ solutions to leet code problem
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
