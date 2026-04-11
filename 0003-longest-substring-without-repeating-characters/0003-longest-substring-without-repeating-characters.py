@@ -85,6 +85,22 @@ class Solution:
                 dp[ch] = right
 
             return ans
+
+        def  sol():
+            dp = {}
+            ans = 0
+            left =0
+            if len(s)==1:
+                return 1
+            for right , ch in enumerate(s):
+                if ch in dp:
+                    left = dp[ch]+1 if left<dp[ch]+1 else left
+                ans = max(ans,right-left+1)
+                dp[ch] = right
+
+            return ans
+
+                    
                     
 
         return sol()
