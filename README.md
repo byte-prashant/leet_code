@@ -75,6 +75,7 @@ solutions to leet code problem
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
+| [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/byte-prashant/leet_code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -114,6 +115,7 @@ solutions to leet code problem
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
+| [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 ## String
@@ -142,6 +144,7 @@ solutions to leet code problem
 | [0686-repeated-string-match](https://github.com/byte-prashant/leet_code/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
+| [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
@@ -188,6 +191,7 @@ solutions to leet code problem
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
+| [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -394,6 +398,7 @@ solutions to leet code problem
 | [0687-longest-univalue-path](https://github.com/byte-prashant/leet_code/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0975-range-sum-of-bst](https://github.com/byte-prashant/leet_code/tree/master/0975-range-sum-of-bst) |
+| [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
@@ -429,6 +434,7 @@ solutions to leet code problem
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
+| [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
@@ -437,6 +443,7 @@ solutions to leet code problem
 | [0547-number-of-provinces](https://github.com/byte-prashant/leet_code/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
+| [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
