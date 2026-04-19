@@ -19,7 +19,7 @@ class Solution:
         
         for edge in edges:
             union(edge[0],edge[1])
-        print(parent)
+      
         return find(source)==find(destination)
 
            
