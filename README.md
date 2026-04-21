@@ -66,6 +66,7 @@ solutions to leet code problem
 | [0485-max-consecutive-ones](https://github.com/byte-prashant/leet_code/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/byte-prashant/leet_code/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
@@ -295,6 +296,7 @@ solutions to leet code problem
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 ## Dynamic Programming
@@ -307,6 +309,7 @@ solutions to leet code problem
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
+| [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -438,6 +441,7 @@ solutions to leet code problem
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/byte-prashant/leet_code/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/byte-prashant/leet_code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
