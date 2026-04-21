@@ -2,12 +2,11 @@ class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
 
         visited = {key:False for key in range(len(graph))}
-        in_stack = {key:False for key in range(len(graph))}
-
+       
         safe_nodes = []
         def dfs(node):
             #print("---node",node)
-            if node in visited and visited[node]:
+            if visited[node]:
                 if node in safe_nodes:
                     return True
                 return False
