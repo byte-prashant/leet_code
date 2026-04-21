@@ -77,6 +77,7 @@ solutions to leet code problem
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
@@ -300,6 +301,7 @@ solutions to leet code problem
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 ## Dynamic Programming
 |  |
@@ -412,6 +414,7 @@ solutions to leet code problem
 | [0687-longest-univalue-path](https://github.com/byte-prashant/leet_code/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0975-range-sum-of-bst](https://github.com/byte-prashant/leet_code/tree/master/0975-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -451,6 +454,7 @@ solutions to leet code problem
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -462,6 +466,7 @@ solutions to leet code problem
 | [0547-number-of-provinces](https://github.com/byte-prashant/leet_code/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
+| [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
