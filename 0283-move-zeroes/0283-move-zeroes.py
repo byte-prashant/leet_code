@@ -69,6 +69,45 @@ class Solution:
         return nums
 
 
+    def moveZeroes(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+
+        # not maintaning the relative order
+        left = 0
+        right = 1
+
+        while(right<len(nums) and left< len(nums)):
+            
+            if nums[right]!=0 and  nums[left]==0:
+
+               
+                    nums[left], nums[right] = nums[right], nums[left]
+                    right+=1
+               
+                   
+
+            else:
+                if nums[right]==0 :
+                    right+=1
+                left+=1
+
+        return nums
+#8454955555
+    def moveZeroes(self, nums: List[int]) -> None:
+        
+        left = 0
+        for right in range(len(nums)):
+            if nums[right]!=0:
+                nums[left],nums[right] = nums[right],nums[left]
+                left+=1
+
+        return nums
+        
+
+
+
 
 
         
