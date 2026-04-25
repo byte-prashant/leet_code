@@ -94,6 +94,7 @@ solutions to leet code problem
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/byte-prashant/leet_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
 | [2478-longest-nice-subarray](https://github.com/byte-prashant/leet_code/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -187,6 +188,7 @@ solutions to leet code problem
 | [0048-rotate-image](https://github.com/byte-prashant/leet_code/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2591-distribute-money-to-maximum-children](https://github.com/byte-prashant/leet_code/tree/master/2591-distribute-money-to-maximum-children) |
 ## Hash Table
 |  |
