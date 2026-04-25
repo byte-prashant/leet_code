@@ -64,6 +64,7 @@ solutions to leet code problem
 | [0283-move-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/byte-prashant/leet_code/tree/master/0485-max-consecutive-ones) |
@@ -124,6 +125,7 @@ solutions to leet code problem
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
 | [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
@@ -201,6 +203,7 @@ solutions to leet code problem
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/byte-prashant/leet_code/tree/master/0169-majority-element) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/byte-prashant/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
@@ -265,6 +268,7 @@ solutions to leet code problem
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/byte-prashant/leet_code/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Prefix Sum
@@ -376,6 +380,7 @@ solutions to leet code problem
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/byte-prashant/leet_code/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -499,6 +504,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/byte-prashant/leet_code/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
 ## Topological Sort
@@ -507,4 +513,12 @@ solutions to leet code problem
 | [0207-course-schedule](https://github.com/byte-prashant/leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/byte-prashant/leet_code/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
