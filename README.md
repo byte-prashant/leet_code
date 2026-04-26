@@ -104,6 +104,7 @@ solutions to leet code problem
 | [0015-3sum](https://github.com/byte-prashant/leet_code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/byte-prashant/leet_code/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/byte-prashant/leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/byte-prashant/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
@@ -149,6 +150,7 @@ solutions to leet code problem
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/byte-prashant/leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
