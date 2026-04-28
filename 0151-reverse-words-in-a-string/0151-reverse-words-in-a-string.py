@@ -35,8 +35,8 @@ class Solution:
 
     def reverseWords(self, s: str) -> str:
         splitted = s.split()
-        reverse = splitted[::-1]
-        return " ".join(reverse)
+        splitted.reverse()
+        return " ".join(splitted)
 
                 
                
