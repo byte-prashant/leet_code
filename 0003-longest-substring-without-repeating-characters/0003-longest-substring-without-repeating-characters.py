@@ -61,6 +61,7 @@ class Solution:
                 if s[right] in dp:
 
                     left = max(dp[s[right]]+1,left)
+                    
                 ans = max(ans,right-left+1)
 
                 dp[s[right]] = right
@@ -101,7 +102,34 @@ class Solution:
             return ans
 
                     
-                    
+        def sol():
+            hash_map = {}
+            left = right = 0
+            ans = 0
+            if len(s)==1:
+                return 1
+            for right in range(len(s)):
+                if not s[right] in hash_map:
+                    ans = max(ans, right-left+1) 
+                    hash_map[s[right]] = right
+
+                else:
+                    # if ch in hashmap and left< hashmap[ch]
+                    if left < hash_map[s[right]]+1:
+                        left = hash_map[s[right]]+1
+                        ans = max(ans, right-left+1)
+                        hash_map[s[right]] =  right
+
+                    else:
+                        ans = max(ans, right-left+1)
+                        #left = hash_map[s[right]]+1
+                        hash_map[s[right]] =  right
+
+               # print(hash_map,right,left)
+            return ans
+
+
+
 
         return sol()
         
