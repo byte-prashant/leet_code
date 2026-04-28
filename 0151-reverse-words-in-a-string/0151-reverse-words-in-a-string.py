@@ -32,6 +32,12 @@ class Solution:
                 
 
         return "".join(words)
+
+    def reverseWords(self, s: str) -> str:
+        splitted = s.split()
+        reverse = splitted[::-1]
+        return " ".join(reverse)
+
                 
                
 
