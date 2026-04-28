@@ -115,7 +115,7 @@ class Solution:
 
                 else:
                     # if ch in hashmap and left< hashmap[ch]
-                    if left < hash_map[s[right]]+1:
+                    if left <=hash_map[s[right]]:
                         left = hash_map[s[right]]+1
                         ans = max(ans, right-left+1)
                         hash_map[s[right]] =  right
@@ -125,7 +125,7 @@ class Solution:
                         #left = hash_map[s[right]]+1
                         hash_map[s[right]] =  right
 
-               # print(hash_map,right,left)
+                #print(hash_map,right,left)
             return ans
 
 
