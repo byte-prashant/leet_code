@@ -79,6 +79,7 @@ solutions to leet code problem
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ solutions to leet code problem
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
@@ -138,6 +140,7 @@ solutions to leet code problem
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
