@@ -113,6 +113,7 @@ solutions to leet code problem
 | [0125-valid-palindrome](https://github.com/byte-prashant/leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/byte-prashant/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/byte-prashant/leet_code/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0283-move-zeroes) |
@@ -206,6 +207,7 @@ solutions to leet code problem
 | [0012-integer-to-roman](https://github.com/byte-prashant/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/byte-prashant/leet_code/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/byte-prashant/leet_code/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -224,6 +226,7 @@ solutions to leet code problem
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/byte-prashant/leet_code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/byte-prashant/leet_code/tree/master/0202-happy-number) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
