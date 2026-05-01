@@ -7,11 +7,11 @@ class Solution:
         for right in range(0,len(chars)):
 
             if chars[left]!=chars[right]:
-                ans.append(chars[left])
+                
                 chars[pos] = chars[left]
                 pos+=1
                 if right-left>1:
-                    ans.append(right-left)
+                   
                     for ch  in str(right-left):
                         chars[pos] = ch
                         pos+=1
@@ -23,11 +23,11 @@ class Solution:
         #print(pos,left,right,chars,ans)
             
         
-        ans.append(chars[left])
+      
         chars[pos] = str(chars[left])
         pos+=1
         if right-left>0:
-            ans.append(right-left+1)
+           
             for ch  in str(right-left+1):
                 chars[pos] = ch
                 pos+=1
