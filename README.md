@@ -121,6 +121,7 @@ solutions to leet code problem
 | [0283-move-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/byte-prashant/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/byte-prashant/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/byte-prashant/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
@@ -174,6 +175,7 @@ solutions to leet code problem
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0344-reverse-string](https://github.com/byte-prashant/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/byte-prashant/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
