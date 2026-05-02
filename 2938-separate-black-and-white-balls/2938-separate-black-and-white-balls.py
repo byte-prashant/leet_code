@@ -10,7 +10,7 @@ class Solution:
 
         if right==0:
             return 0
-        print(right)
+        #print(right)
         left=right-1
         count = 0
         while left>=0 :
@@ -22,6 +22,26 @@ class Solution:
             left-=1
 
         return count
+
+    
+    def minimumSteps(self, s: str) -> int:
+
+        black = 0
+        pos = len(s)-1
+        swaps = 0
+        while pos>=0:
+            if s[pos]=="1":
+                black+=1
+                swaps += len(s)-1-(black-1)-pos
+            
+            pos-=1
+
+        return swaps
+
+
+
+    
+    
 
 
 
