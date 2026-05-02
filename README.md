@@ -109,6 +109,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/byte-prashant/leet_code/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/byte-prashant/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/byte-prashant/leet_code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/byte-prashant/leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -316,6 +317,7 @@ solutions to leet code problem
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/byte-prashant/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/byte-prashant/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/byte-prashant/leet_code/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
