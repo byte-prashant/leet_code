@@ -13,7 +13,8 @@ class Solution:
         while left<=right:
             mid = minimum_banas = (left+right)//2
             #hours = total_banas//minimum_banas
-            hours = sum((p + mid - 1) // mid for p in piles)
+            #hours = sum((p + mid - 1) // mid for p in piles)
+            hours = sum(math.ceil(p / mid) for p in piles)
 
             
             if hours<=h:
