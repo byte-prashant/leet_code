@@ -2,10 +2,10 @@ class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
         
         def no_of_days(max_weight):
-            count=0
+            count=1
             remaining_weight = max_weight
             for weight in weights:
-                if not remaining_weight-weight>0:
+                if remaining_weight-weight<0:
                     count+=1
                     remaining_weight = max_weight
                 remaining_weight -= weight
@@ -15,7 +15,7 @@ class Solution:
             
             return count
 
-        def no_of_days(max_weight):
+        def no_of_dayss(max_weight):
             days =1
             curr =0
             for w in weights:
