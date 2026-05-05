@@ -13,7 +13,7 @@ class Solution:
 
                 dp[num] = stack[-1]
                 stack.append(num)
-        print(dp)
+        #print(dp)
         ans = []
         for pos , num in enumerate(nums1):
             if num in dp:
