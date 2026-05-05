@@ -25,4 +25,25 @@ class Solution:
                     return False
 
         return is_valid(s,False)
+
+
+        def validPalindrome(self, s: str) -> bool:
+
+            left =0
+            right = len(s)-1
+
+            while left<right:
+
+                if s[left]!=s[right]:
+                    left_skip = s[left+1:]
+                    right_skip= s[:right]
+
+                    return left_skip == left_skip[::-1] or right_skip == right_skip[::-1]
+
+            return True
+
+
+
+
+
         
