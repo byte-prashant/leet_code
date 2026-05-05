@@ -27,18 +27,21 @@ class Solution:
         return is_valid(s,False)
 
 
-        def validPalindrome(self, s: str) -> bool:
+    def validPalindrome(self, s: str) -> bool:
 
             left =0
             right = len(s)-1
 
             while left<right:
-
+                #s= s[left:right]
                 if s[left]!=s[right]:
-                    left_skip = s[left+1:]
-                    right_skip= s[:right]
-
+                    left_skip = s[left+1:right+1]
+                    right_skip= s[left:right]
+                    #print(left_skip,right_skip)
                     return left_skip == left_skip[::-1] or right_skip == right_skip[::-1]
+
+                left+=1
+                right-=1
 
             return True
 
