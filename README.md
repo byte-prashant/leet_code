@@ -224,6 +224,7 @@ solutions to leet code problem
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/byte-prashant/leet_code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/byte-prashant/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/byte-prashant/leet_code/tree/master/0048-rotate-image) |
