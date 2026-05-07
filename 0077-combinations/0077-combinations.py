@@ -2,10 +2,10 @@ class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         
 
-        ans = {}
+        ans = []
         def comb(subset,pos):
             if len(subset)==k:
-                ans[tuple(sorted(subset[:]))] =1
+                ans.append(subset[:])
                 return
 
             for value in range(pos,n+1):
@@ -16,5 +16,5 @@ class Solution:
             return
         comb([],1)
 
-        return [list(key) for key,value in ans.items()]
+        return ans
 
