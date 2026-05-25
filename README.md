@@ -146,6 +146,7 @@ solutions to leet code problem
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2938-separate-black-and-white-balls](https://github.com/byte-prashant/leet_code/tree/master/2938-separate-black-and-white-balls) |
@@ -213,6 +214,7 @@ solutions to leet code problem
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
 | [2890-count-substrings-without-repeating-character](https://github.com/byte-prashant/leet_code/tree/master/2890-count-substrings-without-repeating-character) |
@@ -232,6 +234,7 @@ solutions to leet code problem
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
 ## Math
@@ -333,6 +336,7 @@ solutions to leet code problem
 | [0680-valid-palindrome-ii](https://github.com/byte-prashant/leet_code/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2591-distribute-money-to-maximum-children](https://github.com/byte-prashant/leet_code/tree/master/2591-distribute-money-to-maximum-children) |
