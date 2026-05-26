@@ -210,6 +210,7 @@ solutions to leet code problem
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1598-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1598-crawler-log-folder) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -230,6 +231,7 @@ solutions to leet code problem
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1598-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1598-crawler-log-folder) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
