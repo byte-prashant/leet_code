@@ -19,8 +19,7 @@ class Solution:
         
         if remove_indexes:
             new_s =""
-            remove_indexes.sort()
-            print(remove_indexes)
+            
             for index , ch in  enumerate(s):
                 if not index in remove_indexes:
                     new_s+=ch
