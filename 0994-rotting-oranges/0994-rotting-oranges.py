@@ -67,4 +67,41 @@ class Solution:
             return 0
 
 
-        
+    def orangesRotting(self, grid: List[List[int]]) -> int:
+
+        directions  = [(-1,0),(1,0),(0,1),(0,-1)]
+        queue = []
+        ans = [0]
+        fresh_oranges = [0]
+        for row in range(len(grid)):
+            for col in range(len(grid[0])):
+                if grid[row][col] == 2:
+                    queue.append((row,col,0))
+                    #grid[row][col] = 2
+                if grid[row][col] ==1:
+                    fresh_oranges[0]+=1
+        def is_valid(x,y):
+            return x>=0 and x<len(grid) and y>=0 and y<len(grid[0])
+
+        def bfs(queue,fresh_oranges):
+
+            while queue:
+                length = len(queue)
+                for _ in range(length):
+                    x,y,time = queue.pop(0)
+                    
+                    for neighbour in directions:
+                        new_x,new_y = x+neighbour[0],y+neighbour[1]
+                        if is_valid(new_x,new_y) and grid[new_x][new_y]  ==1:
+                            grid[new_x][new_y] = 2
+
+                            ans[0] = max(ans[0],time+1)
+                            fresh_oranges[0]-=1
+                            queue.append((new_x,new_y,time+1))
+            return
+        #print(ans)
+        bfs(queue,fresh_oranges)
+        if fresh_oranges[0]==0:
+            return ans[0]
+        return -1
+
