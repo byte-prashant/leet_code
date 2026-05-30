@@ -82,6 +82,7 @@ solutions to leet code problem
 | [0485-max-consecutive-ones](https://github.com/byte-prashant/leet_code/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/byte-prashant/leet_code/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/byte-prashant/leet_code/tree/master/0605-can-place-flowers) |
@@ -389,6 +390,7 @@ solutions to leet code problem
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/byte-prashant/leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/byte-prashant/leet_code/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/byte-prashant/leet_code/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/byte-prashant/leet_code/tree/master/0867-transpose-matrix) |
@@ -409,6 +411,7 @@ solutions to leet code problem
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/byte-prashant/leet_code/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/byte-prashant/leet_code/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/byte-prashant/leet_code/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/byte-prashant/leet_code/tree/master/0867-transpose-matrix) |
