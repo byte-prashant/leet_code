@@ -125,7 +125,7 @@ class Solution:
             while change_direction<2:
                 
                 
-                next_row ,next_col = get_next_cell(row,col,curr_direction)
+                next_row , next_col = get_next_cell(row,col,curr_direction)
 
                 if  is_valid(next_row, next_col):
                     
@@ -143,6 +143,50 @@ class Solution:
 
                 
         return sol(matrix)
+
+    
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+
+        directions = [(0,1),(1,0),(0,-1),(-1,0)]
+        pos_x,pos_y = 0,0
+        direction  = 0
+        ans = []
+        while True:
+          
+            change = 0
+            
+            element = matrix[pos_x][pos_y]
+            matrix[pos_x][pos_y] = "x"
+            ans.append(element)
+
+            new_pos_x = pos_x+directions[direction][0]
+            new_pos_y = pos_y +directions[direction][1]
+            #change =1
+            while change <=2:
+                if  (new_pos_x>=0 and new_pos_x<len(matrix) and new_pos_y>=0 and new_pos_y< len(matrix[0]) and  matrix[new_pos_x][new_pos_y]=="x" ) or  not (new_pos_x>=0 and new_pos_x<len(matrix) and new_pos_y>=0 and new_pos_y< len(matrix[0])):
+                    direction = (direction+1)%4
+                    new_pos_x = pos_x+directions[direction][0]
+                    new_pos_y = pos_y +directions[direction][1]
+                    change+=1
+                else:
+                    print("brooke",new_pos_x,new_pos_y,change)
+                    break
+
+            if change >=2:
+                break
+
+            pos_x,pos_y = new_pos_x,new_pos_y
+
+
+        return ans
+
+
+
+
+
+
+
+
 
         
 
