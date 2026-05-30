@@ -31,5 +31,22 @@ class Solution:
 
         return list(dp.values())
 
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+
+        from collections import defaultdict
+
+        anagrams = defaultdict(list)
+
+        for word in strs:
+            count = [0]*26
+            for ch in word:
+                count[ord(ch)-ord("a")]+=1
+            count = tuple(count)
+            anagrams[count].append(word)
+
+        return list(anagrams.values())
+                
+
+
 
 
