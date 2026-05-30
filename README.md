@@ -92,6 +92,7 @@ solutions to leet code problem
 | [0867-transpose-matrix](https://github.com/byte-prashant/leet_code/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/byte-prashant/leet_code/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
+| [0885-spiral-matrix-iii](https://github.com/byte-prashant/leet_code/tree/master/0885-spiral-matrix-iii) |
 | [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
@@ -387,6 +388,7 @@ solutions to leet code problem
 | [0657-robot-return-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/byte-prashant/leet_code/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/byte-prashant/leet_code/tree/master/0885-spiral-matrix-iii) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
@@ -404,6 +406,7 @@ solutions to leet code problem
 | [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/byte-prashant/leet_code/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/byte-prashant/leet_code/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/byte-prashant/leet_code/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
