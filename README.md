@@ -32,6 +32,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/byte-prashant/leet_code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/byte-prashant/leet_code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/byte-prashant/leet_code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/byte-prashant/leet_code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -126,6 +127,7 @@ solutions to leet code problem
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/byte-prashant/leet_code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/byte-prashant/leet_code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/byte-prashant/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -342,6 +344,7 @@ solutions to leet code problem
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/byte-prashant/leet_code/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
