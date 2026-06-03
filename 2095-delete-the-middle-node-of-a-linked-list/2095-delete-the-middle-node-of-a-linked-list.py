@@ -6,15 +6,10 @@
 class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         prev=low = head
-        end = head.next
-        if end:
-            if end.next:
-                end = end.next
-            else:
-                low.next = None
-                return low
-        else:
-            return head
+        end = head
+
+        if not head.next:
+            return None
 
         while end and end.next:
             prev = low
@@ -28,7 +23,7 @@ class Solution:
         return head
 
 
-class Solution:
+class Solutionn:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head.next:
             return None
