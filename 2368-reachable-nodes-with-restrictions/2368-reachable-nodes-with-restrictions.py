@@ -10,12 +10,12 @@ class Solution:
         for node in restricted:
             visited[node] = True
 
-        queue= deque()
+        queue= []
         queue.append(0)
         visited[0] = True
         count = 1
         while queue:
-            node  = queue.pop()
+            node  = queue.pop(0)
             
             for child in adj[node]:
 
