@@ -1,26 +1,31 @@
 class Solution:
     def reachableNodes(self, n: int, edges: List[List[int]], restricted: List[int]) -> int:
-        from collections import defaultdict
-        adj = defaultdict(list)
+        
+        adj = graph = [[] for _ in range(n)]
         for a,b in edges:
             adj[a].append(b)
             adj[b].append(a)
 
+        visited = [False] * n
+        for node in restricted:
+            visited[node] = True
 
-        queue= [0]
-        visited = {0:1}
+        queue= deque()
+        queue.append(0)
+        visited[0] = True
         count = 1
         while queue:
-            node  = queue.pop(0)
+            node  = queue.pop()
             
             for child in adj[node]:
 
-                if not child  in restricted and not child in visited :
+                if not  visited[child] :
                     queue.append(child)
                     visited[child] = 1
                     count+=1
         return count
-class Solution:
+
+class Solutionn:
     def reachableNodes(self, n: int, edges: List[List[int]], restricted: List[int]) -> int:
         graph = [[] for _ in range(n)]
 
