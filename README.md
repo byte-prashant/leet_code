@@ -244,6 +244,7 @@ solutions to leet code problem
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
@@ -315,6 +316,7 @@ solutions to leet code problem
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/byte-prashant/leet_code/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/byte-prashant/leet_code/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/byte-prashant/leet_code/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
@@ -492,6 +494,7 @@ solutions to leet code problem
 | [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/byte-prashant/leet_code/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/byte-prashant/leet_code/tree/master/0287-find-the-duplicate-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/byte-prashant/leet_code/tree/master/2478-longest-nice-subarray) |
 ## String Matching
 |  |
@@ -666,6 +669,7 @@ solutions to leet code problem
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/byte-prashant/leet_code/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
 ## Topological Sort
 |  |
