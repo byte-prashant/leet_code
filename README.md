@@ -304,6 +304,7 @@ solutions to leet code problem
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/byte-prashant/leet_code/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2374-node-with-highest-edge-score](https://github.com/byte-prashant/leet_code/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2890-count-substrings-without-repeating-character](https://github.com/byte-prashant/leet_code/tree/master/2890-count-substrings-without-repeating-character) |
@@ -640,6 +641,7 @@ solutions to leet code problem
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/byte-prashant/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/byte-prashant/leet_code/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2374-node-with-highest-edge-score](https://github.com/byte-prashant/leet_code/tree/master/2374-node-with-highest-edge-score) |
 ## Counting
 |  |
 | ------- |
