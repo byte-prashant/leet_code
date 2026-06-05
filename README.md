@@ -125,6 +125,7 @@ solutions to leet code problem
 | [2368-reachable-nodes-with-restrictions](https://github.com/byte-prashant/leet_code/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
 | [2478-longest-nice-subarray](https://github.com/byte-prashant/leet_code/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -197,6 +198,7 @@ solutions to leet code problem
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/byte-prashant/leet_code/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -240,6 +242,7 @@ solutions to leet code problem
 | [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
 | [2890-count-substrings-without-repeating-character](https://github.com/byte-prashant/leet_code/tree/master/2890-count-substrings-without-repeating-character) |
 | [2938-separate-black-and-white-balls](https://github.com/byte-prashant/leet_code/tree/master/2938-separate-black-and-white-balls) |
@@ -311,6 +314,7 @@ solutions to leet code problem
 | [2368-reachable-nodes-with-restrictions](https://github.com/byte-prashant/leet_code/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/byte-prashant/leet_code/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2890-count-substrings-without-repeating-character](https://github.com/byte-prashant/leet_code/tree/master/2890-count-substrings-without-repeating-character) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
