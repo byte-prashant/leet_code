@@ -18,3 +18,18 @@ class Solution:
 
         return ans[0]
 
+class Solution:
+    def edgeScore(self, edges: List[int]) -> int:
+        score_data = [0 for _ in range(len(edges))]
+
+        for node1, node2 in enumerate(edges):
+
+            score_data[node2]+=node1
+
+        ans = 0
+        for node in range(len(score_data)):
+            if score_data[node]>score_data[ans]:
+                ans = node
+        return ans
+
+
