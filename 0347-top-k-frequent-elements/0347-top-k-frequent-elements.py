@@ -33,4 +33,28 @@ class Solution:
 
 
         return [ ele[0] for  ele in frequencies] if frequencies else [last_elem[0]]
+
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        bucket = [[] for _ in range(len(nums)+1)]
+        from collections import Counter
+        frequencies = Counter(nums)
+
+        for key, value in frequencies.items():
+            bucket[value].append(key)
+
+        no_of_ele = k
+        ans = []
+        for index in range(len(bucket)-1,-1,-1):
+            if k>0:
+                for ele in bucket[index]:
+                    if no_of_ele>0:
+                        ans.append(ele)
+                        no_of_ele-=1
+            else:
+                break
+
+        return ans
+
+
+
         
