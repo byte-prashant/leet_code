@@ -159,6 +159,7 @@ solutions to leet code problem
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/byte-prashant/leet_code/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/byte-prashant/leet_code/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/byte-prashant/leet_code/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/byte-prashant/leet_code/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
@@ -231,6 +232,7 @@ solutions to leet code problem
 | [0443-string-compression](https://github.com/byte-prashant/leet_code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/byte-prashant/leet_code/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/byte-prashant/leet_code/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/byte-prashant/leet_code/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/byte-prashant/leet_code/tree/master/0680-valid-palindrome-ii) |
@@ -311,6 +313,7 @@ solutions to leet code problem
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/byte-prashant/leet_code/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -336,6 +339,7 @@ solutions to leet code problem
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/byte-prashant/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
+| [0567-permutation-in-string](https://github.com/byte-prashant/leet_code/tree/master/0567-permutation-in-string) |
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
