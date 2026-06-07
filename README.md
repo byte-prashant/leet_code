@@ -101,6 +101,7 @@ solutions to leet code problem
 | [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/byte-prashant/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -196,6 +197,7 @@ solutions to leet code problem
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -289,6 +291,7 @@ solutions to leet code problem
 | [0202-happy-number](https://github.com/byte-prashant/leet_code/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2591-distribute-money-to-maximum-children](https://github.com/byte-prashant/leet_code/tree/master/2591-distribute-money-to-maximum-children) |
 ## Hash Table
@@ -403,6 +406,7 @@ solutions to leet code problem
 | [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1834-single-threaded-cpu](https://github.com/byte-prashant/leet_code/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/byte-prashant/leet_code/tree/master/1882-process-tasks-using-servers) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/byte-prashant/leet_code/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -541,6 +545,7 @@ solutions to leet code problem
 | [0169-majority-element](https://github.com/byte-prashant/leet_code/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -700,4 +705,9 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
