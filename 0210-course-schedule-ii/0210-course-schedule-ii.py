@@ -100,3 +100,36 @@ class Solution:
 
         
 
+    def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+
+
+        from collections import defaultdict
+        adj = defaultdict(list)
+        for node, neigh in  prerequisites:
+            adj[node].append(neigh)
+        
+        visited = [0 for _ in range(numCourses)]
+        ans = []
+
+        def dfs(course):
+            if visited[course] == 1:
+                return False
+            if visited[course] ==2: # for processed
+                return True
+            visited[course] = 1 # for cycle
+            for neigh in adj[course]:
+                
+                    if not dfs(neigh):
+                        return False
+            visited[course] = 2
+            ans.append(course)
+            return True
+
+        for course in range(numCourses):
+            if visited[course] ==0:
+                if not dfs(course):
+                    return []
+
+        return ans
+
+        
