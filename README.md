@@ -407,6 +407,7 @@ solutions to leet code problem
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/byte-prashant/leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1834-single-threaded-cpu](https://github.com/byte-prashant/leet_code/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/byte-prashant/leet_code/tree/master/1882-process-tasks-using-servers) |
@@ -486,6 +487,7 @@ solutions to leet code problem
 | [0647-palindromic-substrings](https://github.com/byte-prashant/leet_code/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
 |  |
@@ -599,6 +601,7 @@ solutions to leet code problem
 | [0687-longest-univalue-path](https://github.com/byte-prashant/leet_code/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/byte-prashant/leet_code/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0975-range-sum-of-bst](https://github.com/byte-prashant/leet_code/tree/master/0975-range-sum-of-bst) |
@@ -648,6 +651,7 @@ solutions to leet code problem
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/byte-prashant/leet_code/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
@@ -678,6 +682,7 @@ solutions to leet code problem
 | [0210-course-schedule-ii](https://github.com/byte-prashant/leet_code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/byte-prashant/leet_code/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -716,4 +721,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
