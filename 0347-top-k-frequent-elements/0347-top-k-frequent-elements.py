@@ -75,4 +75,28 @@ class Solution:
 
 
 
-            
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        from collections import defaultdict
+
+        bucket = [[] for _ in range(len(nums)+1)]
+        freq = Counter(nums)
+
+        for num, count in freq.items():
+            bucket[count].append(num)
+        print(bucket)
+        ans = []
+        
+        for pos in range(len(bucket)-1,-1,-1):
+            if k>0:
+                elems = bucket[pos]
+                for elem in elems:
+                    if k>0:
+                        ans.append(elem)
+                        k-=1
+        return ans
+
+
+        
+        
+       
+
