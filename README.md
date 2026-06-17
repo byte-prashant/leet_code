@@ -80,6 +80,7 @@ solutions to leet code problem
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/byte-prashant/leet_code/tree/master/0485-max-consecutive-ones) |
@@ -193,6 +194,7 @@ solutions to leet code problem
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
@@ -320,6 +322,7 @@ solutions to leet code problem
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/byte-prashant/leet_code/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
