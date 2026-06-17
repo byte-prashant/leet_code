@@ -109,6 +109,7 @@ solutions to leet code problem
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
+| [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/byte-prashant/leet_code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -293,6 +294,7 @@ solutions to leet code problem
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
+| [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2591-distribute-money-to-maximum-children](https://github.com/byte-prashant/leet_code/tree/master/2591-distribute-money-to-maximum-children) |
 ## Hash Table
@@ -326,6 +328,7 @@ solutions to leet code problem
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/byte-prashant/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
+| [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -705,6 +708,7 @@ solutions to leet code problem
 | [1189-maximum-number-of-balloons](https://github.com/byte-prashant/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/byte-prashant/leet_code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
+| [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/byte-prashant/leet_code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
