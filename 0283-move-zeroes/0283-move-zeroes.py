@@ -106,7 +106,7 @@ class Solution:
         return nums
 
 
-    def moveZeroes(self, nums: List[int]) -> None:
+    def moveZeroess(self, nums: List[int]) -> None:
         
         left = 0
         right = left+1
