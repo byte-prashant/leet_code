@@ -269,6 +269,7 @@ solutions to leet code problem
 | [2788-split-strings-by-separator](https://github.com/byte-prashant/leet_code/tree/master/2788-split-strings-by-separator) |
 | [2890-count-substrings-without-repeating-character](https://github.com/byte-prashant/leet_code/tree/master/2890-count-substrings-without-repeating-character) |
 | [2938-separate-black-and-white-balls](https://github.com/byte-prashant/leet_code/tree/master/2938-separate-black-and-white-balls) |
+| [3813-vowel-consonant-score](https://github.com/byte-prashant/leet_code/tree/master/3813-vowel-consonant-score) |
 ## Stack
 |  |
 | ------- |
@@ -469,6 +470,7 @@ solutions to leet code problem
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/byte-prashant/leet_code/tree/master/2460-apply-operations-to-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
+| [3813-vowel-consonant-score](https://github.com/byte-prashant/leet_code/tree/master/3813-vowel-consonant-score) |
 ## Matrix
 |  |
 | ------- |
