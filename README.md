@@ -125,6 +125,7 @@ solutions to leet code problem
 | [1882-process-tasks-using-servers](https://github.com/byte-prashant/leet_code/tree/master/1882-process-tasks-using-servers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/byte-prashant/leet_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -179,6 +180,7 @@ solutions to leet code problem
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/byte-prashant/leet_code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/byte-prashant/leet_code/tree/master/2460-apply-operations-to-an-array) |
 | [2938-separate-black-and-white-balls](https://github.com/byte-prashant/leet_code/tree/master/2938-separate-black-and-white-balls) |
