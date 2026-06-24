@@ -30,7 +30,14 @@ class Solution:
                 if com in hash_map:
                     return [i, hash_map[com]]
                 hash_map[nums[i]] =i
-
+        
+        def two_sum():
+            hash_map = {}
+            for index,num in enumerate(nums):
+                if target-num  in hash_map:
+                    return [index,hash_map[target-num]]
+                hash_map[num] =index
+            return []
             
         return two_sum()
 
