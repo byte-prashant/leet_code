@@ -118,3 +118,59 @@ class Solution:
 
 
         return mutate_list(left,right)
+
+class Solution:
+    def reverseBetween(
+        self, head: Optional[ListNode], left: int, right: int
+    ) -> Optional[ListNode]:
+
+    
+        dummy = node = ListNode(val ="dum",next = head)
+        if left==right:
+            return head
+        left_parent = dummy
+        count =0
+        while node.next and count+1!=left:
+            node = node.next
+            left_parent = node
+            count+=1
+
+        if not left_parent:
+            return head
+
+        left_node=node = left_parent.next
+        print(left_node.val)
+        prev_node = None
+        right_next = None
+        #count+=1
+        while  count+1<=right:
+            print(count)
+            next_node = node.next
+            node.next = prev_node
+            prev_node = node
+            node = next_node
+            count+=1
+        
+        # node is the node after 'right'
+        right_next = node
+        
+        if right_next:
+            print(right_next.val)
+
+        left_node.next = right_next
+        left_parent.next = prev_node
+
+
+        return dummy.next
+
+
+
+
+
+
+
+
+
+
+
+        
