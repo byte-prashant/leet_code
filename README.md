@@ -303,6 +303,7 @@ solutions to leet code problem
 | [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/byte-prashant/leet_code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/byte-prashant/leet_code/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/byte-prashant/leet_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/byte-prashant/leet_code/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
@@ -504,6 +505,7 @@ solutions to leet code problem
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
@@ -770,4 +772,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/byte-prashant/leet_code/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
