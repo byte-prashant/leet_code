@@ -257,6 +257,7 @@ solutions to leet code problem
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
 | [0752-open-the-lock](https://github.com/byte-prashant/leet_code/tree/master/0752-open-the-lock) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/byte-prashant/leet_code/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/byte-prashant/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/byte-prashant/leet_code/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -513,6 +514,7 @@ solutions to leet code problem
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/byte-prashant/leet_code/tree/master/1143-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
 |  |
