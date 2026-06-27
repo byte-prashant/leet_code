@@ -53,6 +53,28 @@ class Solution:
             dp[state] = cost[state] + min(dp[state-1],dp[state-2])
 
         return min(dp[n-1],dp[n-2])
+
+
+    
+
+    def minCostClimbingStairs(self, cost: List[int]) -> int:
+        
+        # in previous method we can see, the new state depends only on previous two states
+        # not whole list of satate
+        # so we can manage this by two variable
+        dp_n_2 =dp_n_1 = 0
+         #init base case
+        dp_n_2 = cost[0]
+        dp_n_1 = cost[1]
+        n = len(cost)
+        # now exploring all states
+        for state in range(2,len(cost)):
+            
+            dp = cost[state] + min(dp_n_1, dp_n_2)
+            dp_n_2 = dp_n_1
+            dp_n_1 = dp
+
+        return min(dp_n_1, dp_n_2)
        
 
         
