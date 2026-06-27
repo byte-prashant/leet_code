@@ -96,6 +96,7 @@ solutions to leet code problem
 | [0724-find-pivot-index](https://github.com/byte-prashant/leet_code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/byte-prashant/leet_code/tree/master/0752-open-the-lock) |
 | [0867-transpose-matrix](https://github.com/byte-prashant/leet_code/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/byte-prashant/leet_code/tree/master/0875-koko-eating-bananas) |
@@ -517,6 +518,7 @@ solutions to leet code problem
 | [0647-palindromic-substrings](https://github.com/byte-prashant/leet_code/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/byte-prashant/leet_code/tree/master/1143-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
