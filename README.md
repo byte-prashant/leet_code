@@ -85,6 +85,7 @@ solutions to leet code problem
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/byte-prashant/leet_code/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
+| [0494-target-sum](https://github.com/byte-prashant/leet_code/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/byte-prashant/leet_code/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
@@ -513,6 +514,7 @@ solutions to leet code problem
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
+| [0494-target-sum](https://github.com/byte-prashant/leet_code/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/byte-prashant/leet_code/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/byte-prashant/leet_code/tree/master/0647-palindromic-substrings) |
@@ -542,6 +544,7 @@ solutions to leet code problem
 | [0077-combinations](https://github.com/byte-prashant/leet_code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/byte-prashant/leet_code/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
