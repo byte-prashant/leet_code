@@ -123,7 +123,7 @@ class Solution:
             
             # as pos depends on pos+1
             for pos in range(len(nums)-1,-1,-1):
-                for total in range(new_target-sum(nums), new_target):
+                for total in range(new_target-sum(nums), new_target+1):
                      dp[(pos,total)] = dp.get((pos+1,total-nums[pos]),False) or dp.get((pos+1,total),False)
 
 
