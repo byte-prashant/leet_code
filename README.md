@@ -80,6 +80,7 @@ solutions to leet code problem
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/byte-prashant/leet_code/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
@@ -513,6 +514,7 @@ solutions to leet code problem
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/byte-prashant/leet_code/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/byte-prashant/leet_code/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
