@@ -174,4 +174,69 @@ class Solution:
         return -1 if ans == float("inf") else ans
             
 
+
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        minn = [float("inf")]
+        # previous solution
+        # every new state is depent on current row ==> pos, and previous row
+        # so we need not to, have all roow, cuurent and preev row is suffices
+
+        # 
+        next_row = [float("inf") for _ in range(amount + 1)]
+        current_row = [float("inf") for _ in range(amount + 1)]
         
+     
+        next_row[0] = 0
+       
+        for pos in range(len(coins)-1,-1,-1):
+            # in prv sol we initiliazed zero for each row
+            current_row[0] = 0
+            for amt in range(1 ,amount+1):
+                skip = next_row[ amt]
+                if amt >= coins[pos]: 
+                    take = current_row[ amt - coins[pos]] + 1 
+                else: 
+                    take = float("inf")
+                    #coin(pos+1, amount-coins[pos],count+1)
+                current_row[amt] = min(skip, take)
+                    
+            # current set as new
+            next_row = current_row[:]
+            current_row = [float("inf")] * (amount + 1)
+
+        
+        ans =next_row[amount]
+        return -1 if ans == float("inf") else ans
+
+
+
+# Instead of asking
+
+# What is the answer using coins starting from index pos?
+
+# Ask
+
+# What is the minimum coins needed to make amount x?
+
+#  also  dp state saves no.  of coins for each amount, and we can use it
+# for each amount, we should calculate all  minum,  required coins
+# We're simply changing the loop order.
+
+# current state (pos, amount) says Minimum coins needed to make amount using only coins from index pos onward.
+
+# now we will say, minimum coin needed  for amount, using all coins
+# now we need to to track for range of coins used  as we are exploring all coins now
+
+# so we can convert all state (pos, amount) to (amount) only
+
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        
+        dp= [float("inf")] * (amount+1)
+        dp[0]= 0
+        for amnt in range(1, amount+1):
+                for coin in coins:
+                    if amnt-coin >= 0:
+                        dp[amnt]= min(dp[amnt], 1+ dp[amnt-coin])
+        return dp[amount] if dp[amount]!= float("inf") else  -1
