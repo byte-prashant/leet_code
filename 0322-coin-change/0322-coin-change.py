@@ -240,3 +240,6 @@ class Solution:
                     if amnt-coin >= 0:
                         dp[amnt]= min(dp[amnt], 1+ dp[amnt-coin])
         return dp[amount] if dp[amount]!= float("inf") else  -1
+
+
+# we can also do it using bfs, traversing
