@@ -74,6 +74,7 @@ solutions to leet code problem
 | [0283-move-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/byte-prashant/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/byte-prashant/leet_code/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/byte-prashant/leet_code/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0334-increasing-triplet-subsequence) |
@@ -402,6 +403,7 @@ solutions to leet code problem
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/byte-prashant/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0259-3sum-smaller](https://github.com/byte-prashant/leet_code/tree/master/0259-3sum-smaller) |
 | [0287-find-the-duplicate-number](https://github.com/byte-prashant/leet_code/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -513,6 +515,7 @@ solutions to leet code problem
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/byte-prashant/leet_code/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
