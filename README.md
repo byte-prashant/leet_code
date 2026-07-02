@@ -66,6 +66,7 @@ solutions to leet code problem
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/byte-prashant/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/byte-prashant/leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/byte-prashant/leet_code/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/byte-prashant/leet_code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/byte-prashant/leet_code/tree/master/0238-product-of-array-except-self) |
@@ -496,6 +497,7 @@ solutions to leet code problem
 | [0073-set-matrix-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/byte-prashant/leet_code/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/byte-prashant/leet_code/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -637,6 +639,7 @@ solutions to leet code problem
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/byte-prashant/leet_code/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/byte-prashant/leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/byte-prashant/leet_code/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -692,6 +695,7 @@ solutions to leet code problem
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/byte-prashant/leet_code/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/byte-prashant/leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/byte-prashant/leet_code/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/byte-prashant/leet_code/tree/master/0310-minimum-height-trees) |
@@ -716,6 +720,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/byte-prashant/leet_code/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/byte-prashant/leet_code/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/byte-prashant/leet_code/tree/master/0695-max-area-of-island) |
