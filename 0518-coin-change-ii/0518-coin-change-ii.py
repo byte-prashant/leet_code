@@ -155,6 +155,31 @@ class Solution:
         return dp[0][amount]
 
 
-       
+class Solution:
+    def change(self, amount: int, coins: List[int]) -> int:
+
+        n = len(coins)
+
+        next = [0] * (amount + 1)
+        next[0] = 1
+
+        for coin in range(n - 1, -1, -1):
+
+            current = [0] * (amount + 1)
+            current[0] = 1
+
+            for amt in range(1, amount + 1):
+
+                included = 0
+                if amt >= coins[coin]:
+                    included = current[amt - coins[coin]]
+
+                excluded = next[amt]
+
+                current[amt] = included + excluded
+
+            next = current
+
+        return next[amount]    
         
         
