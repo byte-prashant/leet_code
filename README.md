@@ -62,6 +62,7 @@ solutions to leet code problem
 | [0130-surrounded-regions](https://github.com/byte-prashant/leet_code/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/byte-prashant/leet_code/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/byte-prashant/leet_code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/byte-prashant/leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -243,6 +244,7 @@ solutions to leet code problem
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/byte-prashant/leet_code/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
@@ -334,6 +336,7 @@ solutions to leet code problem
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/byte-prashant/leet_code/tree/master/0169-majority-element) |
@@ -522,6 +525,7 @@ solutions to leet code problem
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/byte-prashant/leet_code/tree/master/0322-coin-change) |
@@ -559,6 +563,7 @@ solutions to leet code problem
 | [0077-combinations](https://github.com/byte-prashant/leet_code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/byte-prashant/leet_code/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -607,6 +612,7 @@ solutions to leet code problem
 | ------- |
 | [0014-longest-common-prefix](https://github.com/byte-prashant/leet_code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -802,4 +808,5 @@ solutions to leet code problem
 | ------- |
 | [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
