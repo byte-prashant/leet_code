@@ -132,8 +132,29 @@ class Solution:
         return ans if ans else 0
 
 
+# convertion to bottom up
+
+# pos range(0, len(coins)) # amount  range(0, amount+1)
+# base state, for each coin when, amount 0,  value 1
+class Solution:
+    def change(self, amount: int, coins: List[int]) -> int:
+
+        dp = [[0 for i in range(amount+1)] for _  in range(len(coins)+1)]
+        for i in range(len(coins)+1):
+            dp[i][0] = 1
+
+        for coin in range(len(coins)-1,-1,-1):
+            for amnt in range(amount+1):
+                included=0
+                if amnt >= coins[coin]:
+                    included = dp[coin][amnt-coins[coin]]
+                exculded = dp[coin+1][amnt]
+
+                dp[coin][amnt] = included+exculded
+        
+        return dp[0][amount]
 
 
-
+       
         
         
