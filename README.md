@@ -50,6 +50,7 @@ solutions to leet code problem
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/byte-prashant/leet_code/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/byte-prashant/leet_code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/byte-prashant/leet_code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/byte-prashant/leet_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
@@ -502,6 +503,7 @@ solutions to leet code problem
 | [0048-rotate-image](https://github.com/byte-prashant/leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/byte-prashant/leet_code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/byte-prashant/leet_code/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/byte-prashant/leet_code/tree/master/0130-surrounded-regions) |
@@ -524,6 +526,7 @@ solutions to leet code problem
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/byte-prashant/leet_code/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/byte-prashant/leet_code/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
