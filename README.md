@@ -314,6 +314,7 @@ solutions to leet code problem
 | [0012-integer-to-roman](https://github.com/byte-prashant/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/byte-prashant/leet_code/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/byte-prashant/leet_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/byte-prashant/leet_code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/byte-prashant/leet_code/tree/master/0189-rotate-array) |
@@ -522,6 +523,7 @@ solutions to leet code problem
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/byte-prashant/leet_code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
@@ -811,4 +813,8 @@ solutions to leet code problem
 | [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/byte-prashant/leet_code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
