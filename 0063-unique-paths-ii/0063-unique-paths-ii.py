@@ -34,4 +34,39 @@ class Solution:
                 dp[x][y] = right + down
 
         return dp[0][0]
-        
+
+    
+# dp[x][y] = dp[x][y+1]+dp[x+1][y]
+# if current ==> dp[x], next => dp[x+1]
+#  current[y] ==> current[y+1]+next[y]       
+# as current[y] is not dependend on current[y] we can  create this at every iteration 
+class Solution:
+    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
+
+        m = len(obstacleGrid)
+        n = len(obstacleGrid[0])
+
+        if obstacleGrid[m-1][n-1] == 1:
+            return 0
+
+        dp = [0] * n
+        dp[n-1] = 1
+
+        for x in range(m - 1, -1, -1):
+
+            for y in range(n - 1, -1, -1):
+
+                if obstacleGrid[x][y] == 1:
+                    dp[y] = 0
+
+                elif x == m - 1 and y == n - 1:
+                    continue
+
+                else:
+
+                    right = dp[y + 1] if y + 1 < n else 0
+                    down = dp[y]
+
+                    dp[y] = right + down
+
+        return dp[0]
