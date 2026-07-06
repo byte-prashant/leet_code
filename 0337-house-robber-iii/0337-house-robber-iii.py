@@ -7,29 +7,52 @@
 class Solution:
     def rob(self, root: Optional[TreeNode]) -> int:
 
-        money = 0
-        node = root
-        dp  = {}
-        def bt(node,pick):
-            if (node,pick) in dp:
-                return dp[(node,pick)]
-            if not node:
+
+        def sol(root, pick):
+
+            if not root:
                 return 0
 
-            m = 0
-            if  pick:
-                    m = max( bt(node.left,0)+node.val+bt(node.right,0), bt(node.left,1)+bt(node.right,1))
-
-            else:
-                m = bt(node.left,1)+bt(node.right,1)
-            
-            dp.update({(node,pick):m})
-            return m
-
-        return max(bt(root,0),bt(root,1))
-
-
-            
-
-
+            val = 0
+            if pick:
                 
+                val = max( sol(root.left,0)+root.val+sol(root.right,0), sol(root.left,1)+sol(root.right,1))
+            else:
+               
+
+                val+=sol(root.left,1)
+                val+=sol(root.right,1)
+
+
+            return val
+
+        return max(sol(root,True),sol(root,False))
+
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def rob(self, root: Optional[TreeNode]) -> int:
+        # Message Passing function
+        def dfs(node):
+            if not node:
+                # Base case: (Max if not robbed, Max if robbed)
+                return (0, 0)
+            
+            left = dfs(node.left)
+            right = dfs(node.right)
+            
+            # If we DON'T rob this node, we can choose to rob 
+            # or not rob the children (take the max of each)
+            not_robbed = max(left) + max(right)
+            
+            # If we DO rob this node, we MUST NOT rob the children
+            robbed = node.val + left[0] + right[0]
+            
+            return (not_robbed, robbed)
+        
+        return max(dfs(root))        
