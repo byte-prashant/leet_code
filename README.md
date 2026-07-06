@@ -70,6 +70,7 @@ solutions to leet code problem
 | [0169-majority-element](https://github.com/byte-prashant/leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/byte-prashant/leet_code/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/byte-prashant/leet_code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/byte-prashant/leet_code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/byte-prashant/leet_code/tree/master/0238-product-of-array-except-self) |
@@ -532,6 +533,7 @@ solutions to leet code problem
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
+| [0213-house-robber-ii](https://github.com/byte-prashant/leet_code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/byte-prashant/leet_code/tree/master/0322-coin-change) |
