@@ -97,6 +97,7 @@ solutions to leet code problem
 | [0494-target-sum](https://github.com/byte-prashant/leet_code/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/byte-prashant/leet_code/tree/master/0498-diagonal-traverse) |
+| [0506-relative-ranks](https://github.com/byte-prashant/leet_code/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/byte-prashant/leet_code/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
@@ -217,6 +218,7 @@ solutions to leet code problem
 | [0442-find-all-duplicates-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/byte-prashant/leet_code/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
@@ -450,6 +452,7 @@ solutions to leet code problem
 | [0347-top-k-frequent-elements](https://github.com/byte-prashant/leet_code/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/byte-prashant/leet_code/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/byte-prashant/leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
