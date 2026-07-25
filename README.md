@@ -143,6 +143,7 @@ solutions to leet code problem
 | [1834-single-threaded-cpu](https://github.com/byte-prashant/leet_code/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/byte-prashant/leet_code/tree/master/1882-process-tasks-using-servers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -293,6 +294,7 @@ solutions to leet code problem
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
@@ -380,6 +382,7 @@ solutions to leet code problem
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/byte-prashant/leet_code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
@@ -794,6 +797,7 @@ solutions to leet code problem
 | [1192-critical-connections-in-a-network](https://github.com/byte-prashant/leet_code/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/byte-prashant/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/byte-prashant/leet_code/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/byte-prashant/leet_code/tree/master/2374-node-with-highest-edge-score) |
 ## Counting
@@ -818,6 +822,7 @@ solutions to leet code problem
 | [0210-course-schedule-ii](https://github.com/byte-prashant/leet_code/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/byte-prashant/leet_code/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Bucket Sort
 |  |
 | ------- |
