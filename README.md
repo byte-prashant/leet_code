@@ -137,6 +137,7 @@ solutions to leet code problem
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1598-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1598-crawler-log-folder) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/byte-prashant/leet_code/tree/master/1833-find-the-highest-altitude) |
@@ -383,6 +384,7 @@ solutions to leet code problem
 | [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -409,6 +411,7 @@ solutions to leet code problem
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/byte-prashant/leet_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -442,6 +445,7 @@ solutions to leet code problem
 | [0875-koko-eating-bananas](https://github.com/byte-prashant/leet_code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/byte-prashant/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -486,6 +490,7 @@ solutions to leet code problem
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/byte-prashant/leet_code/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/byte-prashant/leet_code/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
