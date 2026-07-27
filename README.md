@@ -164,6 +164,7 @@ solutions to leet code problem
 | [2545-sort-the-students-by-their-kth-score](https://github.com/byte-prashant/leet_code/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2788-split-strings-by-separator](https://github.com/byte-prashant/leet_code/tree/master/2788-split-strings-by-separator) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/byte-prashant/leet_code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -397,6 +398,7 @@ solutions to leet code problem
 | [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2890-count-substrings-without-repeating-character](https://github.com/byte-prashant/leet_code/tree/master/2890-count-substrings-without-repeating-character) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/byte-prashant/leet_code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Sliding Window
 |  |
@@ -829,6 +831,7 @@ solutions to leet code problem
 | [2341-maximum-number-of-pairs-in-array](https://github.com/byte-prashant/leet_code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/byte-prashant/leet_code/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/byte-prashant/leet_code/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Topological Sort
 |  |
 | ------- |
