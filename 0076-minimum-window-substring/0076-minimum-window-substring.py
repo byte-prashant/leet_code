@@ -32,6 +32,7 @@ class Solution:
 
         return "" if ans[0]==float('inf') else s[ans[1]:ans[2]+1]
 
+
     def minWindow(self, s: str, t: str) -> str:
         req_dict = Counter(t)
         #print(dict(req_dict))
@@ -74,4 +75,38 @@ class Solution:
         return s[ans[1][0]:ans[1][1]+1] if ans[0]!=float("+inf") else ""
 
 
-        
+    def minWindow(self, s: str, t: str) -> str:
+        req_dict = Counter(t)
+
+        req_len = len(req_dict)
+        formed_dict = {}
+        formed_len = 0
+        left = right = 0
+        ans = [float("inf"), [0,0]]
+
+        while right <len(s):
+
+            ch = s[right]
+            formed_dict[ch] = formed_dict.get(ch,0)+1
+            if ch in req_dict and formed_dict[ch] == req_dict[ch]:
+                formed_len+=1
+
+            while left<=right and formed_len == req_len:
+
+                if ans[0]>right-left+1:
+                    ans = (right-left+1,[left,right])
+
+
+                left_ch = s[left]
+                formed_dict[left_ch]-=1
+                if left_ch in req_dict and formed_dict[left_ch] <req_dict[left_ch]:
+                    formed_len-=1
+
+                left+=1
+            right+=1
+
+        return s[ans[1][0]:ans[1][1]+1] if ans[0]!=float("+inf") else ""
+
+                    
+
+
