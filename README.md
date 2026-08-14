@@ -124,6 +124,7 @@ solutions to leet code problem
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/byte-prashant/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/byte-prashant/leet_code/tree/master/1034-coloring-a-border) |
@@ -412,6 +413,7 @@ solutions to leet code problem
 | [0567-permutation-in-string](https://github.com/byte-prashant/leet_code/tree/master/0567-permutation-in-string) |
 | [0727-minimum-window-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0727-minimum-window-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -447,6 +449,7 @@ solutions to leet code problem
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/byte-prashant/leet_code/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/byte-prashant/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -493,6 +496,7 @@ solutions to leet code problem
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/byte-prashant/leet_code/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/byte-prashant/leet_code/tree/master/1833-find-the-highest-altitude) |
