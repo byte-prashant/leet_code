@@ -129,6 +129,28 @@ class Solution:
             return ans
 
 
+        def sol():
+
+
+            dp = {}
+            left = 0
+            ans = 0
+            if len(s)==1:
+                return 1
+            for right in range(len(s)):
+
+
+                if s[right] in dp:
+                    left = max(left, dp[s[right]]+1)
+               
+                ans = max(right-left+1,ans)
+
+                dp[s[right]] = right
+
+
+            return ans
+
+
 
 
         return sol()
