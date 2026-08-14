@@ -63,7 +63,31 @@ class Solution:
             ans = max(ans, j-i+1)
 
         return ans
-    
+
+
+class Solution:
+    def longestOnes(self, nums: List[int], k: int) -> int:
+        from bisect import bisect_left
+        ans = 0
+        left = 0
+        prefix = [0]
+
+        for num in nums:
+            prefix.append(prefix[-1] + (num == 0))
+       # print(prefix)
+        for right in range(len(prefix)):
+            target = prefix[right]-k
+
+            # prefix[j]-prefix[i]<=k
+            # prefix[i]>=prefix[j]-k
+            left = bisect_left(prefix, target)
+            ans = max(ans, right - left)
+
+        return ans
+
+
+        
+            
                 
 
 
