@@ -39,6 +39,24 @@ class Solution:
 
         
 
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        left =0 
+        count_elem = 1
 
+        for right in range(1,len(nums)):
+            if nums[right] == nums[right-1]:
+                count_elem+=1
+                if count_elem <3:
+                    left+=1
+
+
+            else:
+                left+=1
+                count_elem = 1
+
+            nums[left] = nums[right]
+
+        return left+1
         
         
