@@ -38,6 +38,21 @@ class Solution:
 
         return swaps
 
+    def minimumSteps(self, s: str) -> int:
+        white_pos = 0
+        swaps = 0
+
+        for pos , char in enumerate(s):
+
+            if char =="0":
+                swaps += pos-white_pos
+                white_pos+=1
+
+        return swaps
+
+
+
+
 
 
     
