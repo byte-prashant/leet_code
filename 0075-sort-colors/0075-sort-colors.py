@@ -20,4 +20,26 @@ class Solution:
 
         return nums
 
+
+class Solution:
+    def sortColors(self, nums: List[int]) -> None:
+        left = pos = 0
+        right = len(nums)-1
+
+        while pos<=right:
+
+            if nums[pos] == 1:
+                pos+=1
+                
+
+            elif nums[pos]==2:
+
+                nums[right],nums[pos] = nums[pos],nums[right]
+                right-=1
+            elif nums[pos]==0:
+                nums[pos],nums[left] = nums[left],nums[pos]
+                left+=1
+                pos+=1
+
+        return nums
         
