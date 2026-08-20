@@ -876,4 +876,12 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/byte-prashant/leet_code/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/byte-prashant/leet_code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/byte-prashant/leet_code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
