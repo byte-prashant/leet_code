@@ -68,6 +68,27 @@ class Solution:
 
     def maxSubArray(self, nums: List[int]) -> int:
         max_sum = float("-inf")
+        for i in range(len(nums)):
+            # for all sub arrays ending at index i
+
+            # following is the repetitive task
+            # follwogn give  subarray having max_sum ending at position i
+            for j in range(0, i+1):
+                summ = 0
+                sub_arr =""
+                for k in range(j, i+1):
+                    sub_arr+=str(k)
+                    summ+=nums[k]
+                    max_sum = max(max_sum,summ )
+                    #print(max_sum)
+
+            #print(max_sum)
+
+        
+        return max_sum
+
+    def maxSubArray(self, nums: List[int]) -> int:
+        max_sum = float("-inf")
         dp = [0]*len(nums)
         for i in range(len(nums)):
             # for all sub arrays ending at index i
@@ -102,6 +123,17 @@ class Solution:
             #print(max_sum)
 
         
+        return max_sum
+    
+
+    def maxSubArray(self, nums: List[int]) -> int:
+        max_sum = max(float("-inf"), nums[0])
+        cur_max = 0
+        for  pos in range(0,len(nums)):
+            cur_max = max(nums[pos],cur_max+nums[pos])
+
+            max_sum = max(max_sum,cur_max)
+
         return max_sum
 
 
