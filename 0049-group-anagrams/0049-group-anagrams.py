@@ -45,6 +45,20 @@ class Solution:
             anagrams[count].append(word)
 
         return list(anagrams.values())
+
+
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+
+        from collections import defaultdict
+        ana = defaultdict(list)
+
+        for word in strs:
+
+            srt_word = "".join(sorted(word))
+
+            ana[srt_word].append(word)
+
+        return list(ana.values())
                 
 
 
