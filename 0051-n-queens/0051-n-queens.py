@@ -29,5 +29,47 @@ class Solution:
 
 
 
+class Solution:
+    def solveNQueens(self, n: int) -> List[List[str]]:
+
+        left_diagonal = [False]*(2*n-1)
+        right_diagonal= [False]*(2*n-1)
+        board = [["." for i in range(n)] for j in range(n) ]
+        rows = [False]*(n)
+        cols = [False]*(n)
+        ans = []
+        def play_chess(row,board):
+
+            if row == n:
+                ans.append(["".join(r) for r in board])
+                return
+
+            
+
+            for j in range(n):
+                col = j
+                if  left_diagonal[row+col] or right_diagonal[col-row+n-1] or  cols[col]:
+                    continue
+                board[row][j] = "Q"
+                left_diagonal[row+col] = right_diagonal[col-row+n-1] =  cols[col] = True
+                play_chess(row+1,board)
+
+                board[row][j] = "."
+
+                left_diagonal[row+col] = right_diagonal[col-row+n-1] =  cols[col] = False
+
+            return
+
+        play_chess(0,board)
+
+        return ans
+        
+
+                
+
+
+
+
+            
 
             
