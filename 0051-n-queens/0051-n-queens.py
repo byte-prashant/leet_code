@@ -14,7 +14,7 @@ class Solution:
                 if  left_diagonal[j-row+n-1] or right_diagonal[j+row] or cols[j]:
                     continue
 
-                left_diagonal[j-row+n-1] = right_diagonal[j+row] = cols[j]  = 1
+                left_diagonal[-j+row+n-1] = right_diagonal[j+row] = cols[j]  = 1
                 row_ch = ["."*(j)+"Q"+"."*(n-j-1)]
 
                # board.append(row_ch)
