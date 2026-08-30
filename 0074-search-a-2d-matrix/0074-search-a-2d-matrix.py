@@ -7,7 +7,7 @@ class Solution:
             right = len(row)-1
 
             while(left<=right):
-                print(left)
+               
                 mid = left+ (right-left)//2
                 
                 if row[mid] == target:
@@ -19,20 +19,41 @@ class Solution:
                 else:
                     left = mid+1
 
-                print(left, right)
-
-            
 
             return -1
 
 
         for row in matrix:
-            print(target <=row[-1])
+           
             if target <=row[-1]:
                 mid = binary_search(row, target)
-                print(mid, "--------")
+    
                 if mid == -1:
                     return False
                 return True
+
+        return False
+
+
+class Solution:
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+
+        left ,right = 0,  len(matrix)*len(matrix[0]) -1
+        n = len(matrix[0])
+        
+        while left<=right:
+            mid = (left+right)//2
+
+            mid_row,mid_col = mid//n, mid%n
+
+
+            if matrix[mid_row][mid_col] == target:
+                return True
+            elif target<matrix[mid_row][mid_col]:
+                right = mid-1
+
+            else:
+                left = mid+1
+
 
         return False
