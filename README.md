@@ -884,4 +884,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/byte-prashant/leet_code/tree/master/0075-sort-colors) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/byte-prashant/leet_code/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
