@@ -70,3 +70,29 @@ class Solution:
             return dp[(pos,is_nieghbour_selected)]
 
         return sol(0,0)
+
+
+# recursion to linear
+#  base case
+# loop pos range[0,len(nums)]
+# is_nieghbour_selected [0,1]
+
+
+class Solution:
+    def rob(self, nums: List[int]) -> int:
+
+        if len(nums)<=2:
+            return max(nums)
+
+        dp = [[0 for _ in range(len(nums))],[0 for _ in range(len(nums))]]
+        dp[1][len(nums)-1] =0
+        dp[0][len(nums)-1] = nums[len(nums)-1]
+
+        for  pos in range(len(nums)-2,-1,-1):
+            for is_selected in [0,1]:
+                if is_selected:
+                    dp[is_selected][pos] = dp[0][pos+1]
+                else:
+                    dp[is_selected][pos] = max(dp[1][pos+1]+nums[pos], dp[0][pos+1])
+
+        return dp[0][0]
