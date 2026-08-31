@@ -25,3 +25,48 @@ class Solution:
             adj = current_max
 
         return max_amount
+
+
+class Solution:
+    def rob(self, nums: List[int]) -> int:
+
+
+        def sol(pos, is_nieghbour_selected):
+
+            if pos >=len(nums):
+                return 0
+
+
+            #return sol(pos+1, 1) if is_nieghbour_selected else max(sol(pos+1, 1)+nums[pos],sol(pos+1, 0))
+
+            if is_nieghbour_selected:
+                return sol(pos+1,0)
+
+            return max(sol(pos+1,1)+nums[pos], sol(pos+1,0))
+
+        return sol(0,0)
+
+class Solution:
+    def rob(self, nums: List[int]) -> int:
+
+        dp = {}
+        def sol(pos, is_nieghbour_selected):
+
+            if pos >=len(nums):
+                return 0
+
+            if (pos,is_nieghbour_selected) in dp:
+                return dp[(pos,is_nieghbour_selected)]
+
+
+            #return sol(pos+1, 1) if is_nieghbour_selected else max(sol(pos+1, 1)+nums[pos],sol(pos+1, 0))
+
+            if is_nieghbour_selected:
+                dp[(pos,is_nieghbour_selected)] = sol(pos+1,0)
+                return dp[(pos,is_nieghbour_selected)]
+
+            dp[(pos,is_nieghbour_selected)] = max(sol(pos+1,1)+nums[pos], sol(pos+1,0))
+
+            return dp[(pos,is_nieghbour_selected)]
+
+        return sol(0,0)
