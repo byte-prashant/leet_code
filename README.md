@@ -888,4 +888,12 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/byte-prashant/leet_code/tree/master/0051-n-queens) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/byte-prashant/leet_code/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/byte-prashant/leet_code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
