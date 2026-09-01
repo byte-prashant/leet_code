@@ -900,4 +900,5 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
