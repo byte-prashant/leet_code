@@ -40,7 +40,7 @@ class Solution:
                      right[ind] = right_max
 
                 
-            print(right,right_max)
+           
             while(index<len(nums)):
                 if left_min<nums[index] and right[index]>nums[index]:
                     return True
@@ -54,4 +54,15 @@ class Solution:
         return sol2(nums)
 
 
-        
+class Solution:
+    def increasingTriplet(self, nums):
+        min1 = float('inf')
+        min2 = float('inf')
+        for n in nums:
+            if n <= min1:
+                min1 = n  # Update first minimum
+            elif n <= min2:
+                min2 = n  # Update second minimum
+            else:
+                return True  # Found a third number greater than both
+        return False  # No triplet found
