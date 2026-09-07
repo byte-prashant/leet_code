@@ -23,7 +23,7 @@ class Solution:
 
         for i in range(len(s)):
             components[i].sort(reverse =True)
-        
+        print(components)
         for i in range(len(s)):
             ans.append(components[uf.find(i)].pop())
 
