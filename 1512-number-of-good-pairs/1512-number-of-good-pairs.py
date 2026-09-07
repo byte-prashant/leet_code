@@ -24,4 +24,19 @@ class Solution:
 
 
 
-        
+class Solution:
+    def numIdenticalPairs(self, nums: List[int]) -> int:
+
+
+        pairs = {}
+        ans = 0
+        for  pos, num in  enumerate(nums):
+
+            if num in pairs:
+
+                ans+= pairs[num]
+                pairs[num]+=1
+
+            else:
+                pairs[num] = 1
+        return ans
