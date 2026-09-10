@@ -18,5 +18,18 @@ class Solution:
                         count-=1
         return ans
 
+class Solution:
+    def frequencySort(self, nums: List[int]) -> List[int]:
 
+        freq = Counter(nums)
+        elems = [(key, value) for key, value in freq.items()]
+
+        result = sorted(elems, key=lambda x: (x[1], -x[0]))
+        ans = []
+
+        for ele in result:
+            for _ in range(ele[1]):
+                ans.append(ele[0])
+
+        return ans
         
