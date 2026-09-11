@@ -30,4 +30,32 @@ class Solution:
           
         print(sections)
         return int(count)
+
+class Solution:
+    def zeroFilledSubarray(self, nums: List[int]) -> int:
+        prev = None
+        count=0
+        for right in range(len(nums)):
+            if prev == None:
+                if nums[right] == 0:
+                    prev = right
+                    if right==len(nums)-1 and nums[right] ==0:
+                        n = right-prev+1
+                        count+= n*((n+1)/2)
+
+            else:
+                if not nums[right] == 0 or right == len(nums)-1:
+                    n = right-prev 
+                    if right==len(nums)-1 and nums[right] ==0:
+                        n = right-prev+1
+
+                   
+                    count+=n*((n+1)/2)
+                    prev =None
+
+        return int(count)
         
+
+
+
+ 
