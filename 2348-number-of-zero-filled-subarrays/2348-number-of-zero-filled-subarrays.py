@@ -57,5 +57,25 @@ class Solution:
         
 
 
+class Solution:
+    def zeroFilledSubarray(self, nums: List[int]) -> int:
+
+        sub_array = 0
+        count = 0
+        for num in nums:
+
+            if num ==0:
+                sub_array+=1
+            else:
+                if sub_array>0:
+                    count+=sub_array*(sub_array+1)/2
+                    sub_array = 0
+
+        if sub_array>0:
+            count+=sub_array*(sub_array+1)/2
+
+        return int(count)
+
+
 
  
