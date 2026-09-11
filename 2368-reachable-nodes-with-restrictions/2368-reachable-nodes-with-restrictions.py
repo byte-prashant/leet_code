@@ -50,3 +50,77 @@ class Solutionn:
         
         return sum(visited) - len(restricted)
         
+class Solution:
+    def reachableNodes(self, n: int, edges: List[List[int]], restricted: List[int]) -> int:
+        # using union and find approach
+
+        parents = [i for i in range(n)]
+        size = [0 for i in range(n) ]
+
+        def find(node):
+            if parents[node]!= node:
+                parents[node] = find(parents[node])
+
+            return parents[node]
+
+        for a,b in edges:
+            if a in restricted or b in restricted:
+                continue 
+            p1 = find(a)
+            p2 = find(b)
+            if p1!=p2:
+
+                if p1 == 0 and not p2 in restricted:
+                    parents[p2] = p1
+                    size[p1]+=size[p2]+1
+                elif p2 ==0 and not p1 in restricted:
+                    parents[p1] =p2
+                    size[p2]+=size[p1]+1
+
+                else:
+                    if size[p1]>size[p2]:
+                        parents[p2] = p1
+                        size[p1]+=size[p2]+1
+                    else:
+                        parents[p1] =p2
+                        size[p2]+=size[p1]+1
+        return size[0]+1
+
+class Solution:
+    def reachableNodes(self, n: int, edges: List[List[int]], restricted: List[int]) -> int:
+
+        adj = [[] for _ in range(n)]
+
+        for edge in edges:
+            adj[edge[0]].append(edge[1])
+            adj[edge[1]].append(edge[0])
+
+        visited = [0 for _ in range(n)]
+        restricted = set(restricted)
+
+        def dfs(node):
+
+            if visited[node] ==1 or node in restricted:
+                return
+
+
+            visited[node] =1
+
+            for neigh in adj[node]:
+
+                if visited[neigh] or  not neigh in restricted:
+
+                    dfs(neigh)
+                    print(neigh)
+
+            return
+
+        dfs(0)
+        c=0
+        print(visited)
+        for node in visited:
+            if node == 1:
+                c+=1
+
+        return c
+
