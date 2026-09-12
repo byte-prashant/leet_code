@@ -33,3 +33,24 @@ class Solution:
                 ans.append(-1)
 
         return ans
+
+class Solution:
+    def occurrencesOfElement(self, nums: List[int], queries: List[int], x: int) -> List[int]:
+
+        left = 0
+
+        for right in range(len(nums)):
+            if nums[right] == x:
+                nums[left] = right
+                left+=1
+
+        ans = []
+        for right in range(len(queries)):
+
+            if queries[right]-1<left:
+
+                ans.append(nums[queries[right]-1])
+            else:
+                ans.append(-1)
+
+        return ans
