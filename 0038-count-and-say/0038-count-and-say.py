@@ -33,3 +33,34 @@ class Solution:
 
         return s
         
+class Solution:
+    def countAndSay(self, n: int) -> str:
+
+
+        say = "1"
+        n = n-1
+
+        while n>0:
+            new_say = ""
+            prev = None
+            left = 0
+            right = None
+            count = 0
+            for right,ch in enumerate(say):
+                right = right
+                if prev == None or prev==ch:
+                    prev = ch
+                    count+=1
+                else:
+                    new_say+= str(count)+prev
+                    prev = ch
+                    left = right
+                    count =1
+            
+            new_say += str(count)+prev
+            say= new_say
+
+            n=n-1
+        return say
+        
+
