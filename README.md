@@ -919,4 +919,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/byte-prashant/leet_code/tree/master/0126-word-ladder-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
