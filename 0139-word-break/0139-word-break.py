@@ -174,7 +174,7 @@ class Solution:
                     and dp[k + 1]
                 ):
                     dp[start] = True
-                    break
+                   
 
         return dp[0]
         
