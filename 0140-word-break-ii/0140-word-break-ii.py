@@ -63,3 +63,41 @@ class Solution:
       
 
         return    sol(0, len(s)) 
+
+
+class Solution:
+    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
+        
+        dp = [[] for _ in range(len(s)+1)]
+        ans = []
+        n = len(s)
+        def sol():
+            
+            dp[n] = [""]
+            for start in range(len(s)-1,-1,-1):
+
+                results=[]
+
+                for k in range(start,len(s)):
+
+                    if s[start:k+1] in wordDict:
+                    
+                        word = s[start:k+1]
+                        sub_list = dp[k+1]
+                        
+
+                        for sub in sub_list:
+
+                            if sub:
+                                results.append(f"{word} {sub}")
+                            else:
+                                results.append(word)
+
+                    
+
+                dp[start] = results[:]
+
+    
+      
+        sol()
+        return    dp[0] 
