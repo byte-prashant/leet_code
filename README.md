@@ -438,6 +438,7 @@ solutions to leet code problem
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/byte-prashant/leet_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/byte-prashant/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/byte-prashant/leet_code/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
@@ -518,6 +519,7 @@ solutions to leet code problem
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/byte-prashant/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/byte-prashant/leet_code/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/byte-prashant/leet_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/byte-prashant/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/byte-prashant/leet_code/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
