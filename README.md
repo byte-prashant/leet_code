@@ -134,6 +134,7 @@ solutions to leet code problem
 | [1046-last-stone-weight](https://github.com/byte-prashant/leet_code/tree/master/1046-last-stone-weight) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/byte-prashant/leet_code/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/byte-prashant/leet_code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -241,6 +242,7 @@ solutions to leet code problem
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/byte-prashant/leet_code/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1834-single-threaded-cpu](https://github.com/byte-prashant/leet_code/tree/master/1834-single-threaded-cpu) |
@@ -390,6 +392,7 @@ solutions to leet code problem
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/byte-prashant/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/byte-prashant/leet_code/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -474,6 +477,7 @@ solutions to leet code problem
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/byte-prashant/leet_code/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/byte-prashant/leet_code/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
@@ -842,6 +846,7 @@ solutions to leet code problem
 | [1189-maximum-number-of-balloons](https://github.com/byte-prashant/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/byte-prashant/leet_code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/byte-prashant/leet_code/tree/master/1267-count-servers-that-communicate) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/byte-prashant/leet_code/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/byte-prashant/leet_code/tree/master/2341-maximum-number-of-pairs-in-array) |
