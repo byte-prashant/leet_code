@@ -147,6 +147,34 @@ class Solution:
             
         return sol(0)
 
+      
+from typing import List
 
 
+class Solution:
+    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+
+        word_set = set(wordDict)
+        n = len(s)
+
+        # dp[start] = Can s[start:] be segmented?
+        dp = [False] * (n + 1)
+
+        # Base case:
+        # Empty string can always be segmented.
+        dp[n] = True
+
+        # Calculate from right to left
+        for start in range(n - 1, -1, -1):
+
+            for k in range(start, n):
+
+                if (
+                    s[start:k + 1] in word_set
+                    and dp[k + 1]
+                ):
+                    dp[start] = True
+                    break
+
+        return dp[0]
         
