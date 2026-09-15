@@ -265,6 +265,7 @@ solutions to leet code problem
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/byte-prashant/leet_code/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/byte-prashant/leet_code/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0151-reverse-words-in-a-string) |
@@ -361,6 +362,7 @@ solutions to leet code problem
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/byte-prashant/leet_code/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
@@ -620,6 +622,7 @@ solutions to leet code problem
 | [0077-combinations](https://github.com/byte-prashant/leet_code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/byte-prashant/leet_code/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/byte-prashant/leet_code/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/byte-prashant/leet_code/tree/master/0494-target-sum) |
 ## Bit Manipulation
@@ -765,6 +768,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0126-word-ladder-ii](https://github.com/byte-prashant/leet_code/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/byte-prashant/leet_code/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
@@ -911,4 +915,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/byte-prashant/leet_code/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
