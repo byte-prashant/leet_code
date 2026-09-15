@@ -82,6 +82,7 @@ class Solution:
 
             if (start, end ) in dp:
                 return dp[(start,end)]
+                
             if s[start:] in wordDict:
                 return True
 
@@ -96,11 +97,56 @@ class Solution:
                 if s[ start:k+1] in wordDict and sol(k+1,end):
                     is_found = True
 
+                    # as we just need to find if it is possible or not
+                    # once found, we can break
+                    
+
             dp[(start,end)] = is_found
 
             return dp[(start,end)]
 
             
         return sol(0, len(s))
+
+
+
+
+
+      
+class Solution:
+    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        import copy
+        dp = {}
+        def sol(start):
+
+            if (start ) in dp:
+                return dp[(start)]
+                
+            if s[start:] in wordDict:
+                return True
+
+            if len(s)<=start:
+                return False
+
+
+            is_found = False
+
+            for k in range(start,len(s)):
+
+                if s[ start:k+1] in wordDict and sol(k+1):
+                    is_found = True
+
+                    # as we just need to find if it is possible or not
+                    # once found, we can break
+                    
+
+            dp[(start)] = is_found
+
+            return dp[(start)]
+
+            
+        return sol(0)
+
+
 
         
