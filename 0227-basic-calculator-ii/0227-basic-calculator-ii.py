@@ -1,76 +1,5 @@
 class Solution:
     def calculate(self, s: str) -> int:
-
-        curr_num = 0
-        curr_sign  = "+"
-        stack = []
-        for i in range(len(s)):
-            
-            char = s[i]
-            if char.isdigit():
-                curr_num = (curr_num * 10) + int(char)
-                #print(curr_num)
-
-
-            if  (not char.isdigit() and not s[i].isspace()) or i == len(s)-1:
-                print(curr_sign,i, "--")
-                if curr_sign == "+":
-                    stack.append(curr_num)
-
-                elif curr_sign == "-":
-                    stack.append(-curr_num)
-
-                elif curr_sign == "*":
-                    stack.append(stack.pop()*curr_num)
-
-                elif curr_sign == "/":
-                    #print("you are",abs(stack[-1])//curr_num)
-                    stack.append(int(stack.pop()/curr_num))
-                curr_num = 0
-                curr_sign = char
-
-       # print(stack)
-        return sum(stack)
-    
-
-    def calculate(self, s: str) -> int:
-        print("you are right place")
-        prev_sign = "+"
-        last_num_stack = 0
-        num = 0
-        stack = 0 
-
-        for c in s+"+":
-            
-            if c.isspace():
-                continue
-
-            if c.isdigit():
-                num = num*10+int(c)
-                print(num)
-
-            if c in ["+","-","/","*"]:
-
-                if prev_sign == "+":
-                    stack +=last_num_stack
-                    last_num_stack = num
-                if prev_sign =="-":
-                    stack+= last_num_stack
-                    last_num_stack = -num
-
-                if prev_sign == "*":
-                    last_num_stack = last_num_stack*num
-
-                if prev_sign =="/":
-                    last_num_stack = int(last_num_stack/num)
-
-                num =0 
-                prev_sign = c
-
-        stack+= last_num_stack
-        return stack
-
-    def calculate(self, s: str) -> int:
         curr_res = 0
         res = 0
         num = 0
@@ -104,6 +33,3 @@ class Solution:
                 num = 0
         
         return res
-
-
-                    
