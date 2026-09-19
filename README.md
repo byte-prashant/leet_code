@@ -43,6 +43,7 @@ solutions to leet code problem
 | [0036-valid-sudoku](https://github.com/byte-prashant/leet_code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/byte-prashant/leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/byte-prashant/leet_code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/byte-prashant/leet_code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/byte-prashant/leet_code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/byte-prashant/leet_code/tree/master/0048-rotate-image) |
@@ -183,6 +184,7 @@ solutions to leet code problem
 | [0019-remove-nth-node-from-end-of-list](https://github.com/byte-prashant/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/byte-prashant/leet_code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/byte-prashant/leet_code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/byte-prashant/leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/byte-prashant/leet_code/tree/master/0125-valid-palindrome) |
@@ -324,6 +326,7 @@ solutions to leet code problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/byte-prashant/leet_code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/byte-prashant/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/byte-prashant/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
@@ -588,6 +591,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/byte-prashant/leet_code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/byte-prashant/leet_code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/byte-prashant/leet_code/tree/master/0063-unique-paths-ii) |
@@ -779,6 +783,7 @@ solutions to leet code problem
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/byte-prashant/leet_code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/byte-prashant/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
