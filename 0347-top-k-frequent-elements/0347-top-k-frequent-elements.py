@@ -96,6 +96,27 @@ class Solution:
         return ans
 
 
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        import heapq
+
+        freq = Counter(nums)
+        elems = [(-count, elem) for elem, count in freq.items()  ]
+
+        heapq.heapify(elems)
+        ans = []
+
+        while elems and len(ans)<k:
+
+            count,elem = heapq.heappop(elems)
+            
+
+            ans.append(elem)
+        
+
+        return ans
+
+
+
         
         
        
