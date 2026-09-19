@@ -123,7 +123,7 @@ class Solution:
         from collections import Counter
         frequencies = Counter(nums)
         frequencies = [(elem, freq) for elem ,freq in frequencies.items()]
-
+        print("quick seletec")
         # using quick select
         # but as order does not matter we do not need to sort it fully
         # we can use quick select
