@@ -55,6 +55,7 @@ solutions to leet code problem
 | [0059-spiral-matrix-ii](https://github.com/byte-prashant/leet_code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/byte-prashant/leet_code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/byte-prashant/leet_code/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/byte-prashant/leet_code/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/byte-prashant/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/byte-prashant/leet_code/tree/master/0075-sort-colors) |
@@ -271,6 +272,7 @@ solutions to leet code problem
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/byte-prashant/leet_code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/byte-prashant/leet_code/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/byte-prashant/leet_code/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/byte-prashant/leet_code/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/byte-prashant/leet_code/tree/master/0125-valid-palindrome) |
@@ -547,6 +549,7 @@ solutions to leet code problem
 | ------- |
 | [0054-spiral-matrix](https://github.com/byte-prashant/leet_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/byte-prashant/leet_code/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/byte-prashant/leet_code/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/byte-prashant/leet_code/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/byte-prashant/leet_code/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0657-robot-return-to-origin) |
