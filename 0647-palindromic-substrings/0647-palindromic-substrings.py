@@ -29,6 +29,31 @@ class Solution:
             ans+=expand(i,i+1,s)
         return ans
 
+
+class Solution:
+    def countSubstrings(self, s: str) -> int:
+
+
+
+
+        def expand(left, right):
+            count =0
+            while left>=0 and right<len(s) and s[left]==s[right]:
+
+                left-=1
+                right+=1
+                count+=1
+
+            return count
+
+        ans = 0
+        for pos in range(len(s)):
+            ans+=expand(pos,pos)
+            ans+=expand(pos,pos+1)
+
+        return ans
+
+
             
 
 
