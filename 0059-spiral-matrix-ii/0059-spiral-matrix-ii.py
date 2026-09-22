@@ -71,6 +71,42 @@ class Solution:
 
             dx,dy = directions[new_dir][0],directions[new_dir][1]
             new_row, new_col = row+dx,col+dy
-            print(new_row, new_col )
 
+        return matrix
+
+
+
+class Solution:
+    def generateMatrix(self, n: int) -> List[List[int]]:
+        matrix= [[0 for _ in range(n)] for _ in range(n)] 
+
+        directions = [(0,1),(1,0),(0,-1),(-1,0)]
+        pos_x,pos_y = 0,0
+        direction  = 0
+        ans = [matrix[pos_x][pos_y]]
+        count = 1
+        matrix[pos_x][pos_y] = count
+        change_direction = 0
+        def is_valid(x,y):
+            return  x>=0 and x<len(matrix) and y>=0 and y<len(matrix[0]) and matrix[x][y]==0 
+
+       
+
+        while change_direction<=1:
+
+            new_pos_x,new_pos_y = pos_x+directions[direction][0],pos_y+directions[direction][1]
+
+            if is_valid(new_pos_x,new_pos_y):
+                count+=1
+                change_direction = 0
+                ans.append(matrix[new_pos_x][new_pos_y])
+
+                pos_x,pos_y = new_pos_x,new_pos_y
+                matrix[new_pos_x][new_pos_y] = count
+
+            else:
+                direction  = (direction+1)%len(directions)
+                change_direction +=1
+
+            
         return matrix
