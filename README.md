@@ -283,6 +283,7 @@ solutions to leet code problem
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/byte-prashant/leet_code/tree/master/0242-valid-anagram) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/byte-prashant/leet_code/tree/master/0344-reverse-string) |
@@ -361,6 +362,7 @@ solutions to leet code problem
 | [0202-happy-number](https://github.com/byte-prashant/leet_code/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -454,6 +456,7 @@ solutions to leet code problem
 | [0025-reverse-nodes-in-k-group](https://github.com/byte-prashant/leet_code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/byte-prashant/leet_code/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
@@ -607,6 +610,7 @@ solutions to leet code problem
 | [0198-house-robber](https://github.com/byte-prashant/leet_code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/byte-prashant/leet_code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/byte-prashant/leet_code/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/byte-prashant/leet_code/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
@@ -908,6 +912,7 @@ solutions to leet code problem
 | [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
@@ -941,6 +946,7 @@ solutions to leet code problem
 ## Bracket Sequences
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bidirectional Search
 |  |
