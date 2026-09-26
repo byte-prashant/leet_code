@@ -268,6 +268,7 @@ solutions to leet code problem
 | [0013-roman-to-integer](https://github.com/byte-prashant/leet_code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/byte-prashant/leet_code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/byte-prashant/leet_code/tree/master/0038-count-and-say) |
@@ -596,6 +597,7 @@ solutions to leet code problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/byte-prashant/leet_code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/byte-prashant/leet_code/tree/master/0053-maximum-subarray) |
@@ -642,6 +644,7 @@ solutions to leet code problem
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/byte-prashant/leet_code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/byte-prashant/leet_code/tree/master/0046-permutations) |
@@ -946,6 +949,7 @@ solutions to leet code problem
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bidirectional Search
