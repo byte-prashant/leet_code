@@ -22,4 +22,28 @@ class Solution:
         return ans 
 
 
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+
+        ans = []
+        def sol(combo):
+
+            if len(combo) == len(nums):
+                ans.append(combo[:])
+
+                return
+
+            for num in nums:
+                if not num in combo:
+
+                    combo.append(num)
+                    sol(combo)
+                    combo.pop()
+
+            return
+        sol([])
+        return ans
+
+
+
         
