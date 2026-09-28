@@ -610,6 +610,7 @@ solutions to leet code problem
 | [0097-interleaving-string](https://github.com/byte-prashant/leet_code/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/byte-prashant/leet_code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/byte-prashant/leet_code/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/byte-prashant/leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/byte-prashant/leet_code/tree/master/0198-house-robber) |
@@ -728,6 +729,7 @@ solutions to leet code problem
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/byte-prashant/leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
@@ -742,6 +744,7 @@ solutions to leet code problem
 | ------- |
 | [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/byte-prashant/leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/byte-prashant/leet_code/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
@@ -779,6 +782,7 @@ solutions to leet code problem
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/byte-prashant/leet_code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/byte-prashant/leet_code/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/byte-prashant/leet_code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/byte-prashant/leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/byte-prashant/leet_code/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
@@ -967,4 +971,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/byte-prashant/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/byte-prashant/leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
