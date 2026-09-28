@@ -29,6 +29,9 @@ class Solution:
             if stops>k:
                 continue
 
+            # main point to notice
+            # prioiry queue on price, blobk here on stops
+            # mean same or lesser number of stops already visited with leeser price
             if stops>=stops_seen[_src]:
                 continue
 
