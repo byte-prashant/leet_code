@@ -157,6 +157,7 @@ solutions to leet code problem
 | [1882-process-tasks-using-servers](https://github.com/byte-prashant/leet_code/tree/master/1882-process-tasks-using-servers) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/byte-prashant/leet_code/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -351,6 +352,7 @@ solutions to leet code problem
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
 ## Math
@@ -809,6 +811,7 @@ solutions to leet code problem
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/byte-prashant/leet_code/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
 ## Breadth-First Search
 |  |
 | ------- |
