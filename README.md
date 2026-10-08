@@ -319,6 +319,7 @@ solutions to leet code problem
 | [1598-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1598-crawler-log-folder) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/byte-prashant/leet_code/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/byte-prashant/leet_code/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -373,6 +374,7 @@ solutions to leet code problem
 | [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/byte-prashant/leet_code/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2591-distribute-money-to-maximum-children](https://github.com/byte-prashant/leet_code/tree/master/2591-distribute-money-to-maximum-children) |
 ## Hash Table
