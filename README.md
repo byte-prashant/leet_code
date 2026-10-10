@@ -967,6 +967,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bidirectional Search
