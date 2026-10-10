@@ -13,3 +13,4 @@ class Solution:
                 else:
                     ans = max(ans,i-stack[-1])
         return ans
+
