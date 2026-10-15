@@ -111,6 +111,7 @@ solutions to leet code problem
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/byte-prashant/leet_code/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/byte-prashant/leet_code/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/byte-prashant/leet_code/tree/master/0630-course-schedule-iii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/byte-prashant/leet_code/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
@@ -246,6 +247,7 @@ solutions to leet code problem
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/byte-prashant/leet_code/tree/master/0506-relative-ranks) |
+| [0630-course-schedule-iii](https://github.com/byte-prashant/leet_code/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
@@ -500,6 +502,7 @@ solutions to leet code problem
 | [0334-increasing-triplet-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/byte-prashant/leet_code/tree/master/0605-can-place-flowers) |
+| [0630-course-schedule-iii](https://github.com/byte-prashant/leet_code/tree/master/0630-course-schedule-iii) |
 | [0680-valid-palindrome-ii](https://github.com/byte-prashant/leet_code/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -523,6 +526,7 @@ solutions to leet code problem
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/byte-prashant/leet_code/tree/master/0506-relative-ranks) |
+| [0630-course-schedule-iii](https://github.com/byte-prashant/leet_code/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/byte-prashant/leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
