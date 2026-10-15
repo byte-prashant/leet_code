@@ -159,6 +159,7 @@ solutions to leet code problem
 | [1882-process-tasks-using-servers](https://github.com/byte-prashant/leet_code/tree/master/1882-process-tasks-using-servers) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/byte-prashant/leet_code/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2050-parallel-courses-iii](https://github.com/byte-prashant/leet_code/tree/master/2050-parallel-courses-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -650,6 +651,7 @@ solutions to leet code problem
 | [1143-longest-common-subsequence](https://github.com/byte-prashant/leet_code/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2050-parallel-courses-iii](https://github.com/byte-prashant/leet_code/tree/master/2050-parallel-courses-iii) |
 ## Design
 |  |
 | ------- |
@@ -883,6 +885,7 @@ solutions to leet code problem
 | [1192-critical-connections-in-a-network](https://github.com/byte-prashant/leet_code/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/byte-prashant/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
+| [2050-parallel-courses-iii](https://github.com/byte-prashant/leet_code/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/byte-prashant/leet_code/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/byte-prashant/leet_code/tree/master/2374-node-with-highest-edge-score) |
@@ -910,6 +913,7 @@ solutions to leet code problem
 | [0210-course-schedule-ii](https://github.com/byte-prashant/leet_code/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/byte-prashant/leet_code/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/byte-prashant/leet_code/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Bucket Sort
 |  |
@@ -993,4 +997,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/byte-prashant/leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/byte-prashant/leet_code/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
