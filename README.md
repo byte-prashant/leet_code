@@ -170,6 +170,7 @@ solutions to leet code problem
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/byte-prashant/leet_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2270-number-of-ways-to-split-array](https://github.com/byte-prashant/leet_code/tree/master/2270-number-of-ways-to-split-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/byte-prashant/leet_code/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/byte-prashant/leet_code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -558,6 +559,7 @@ solutions to leet code problem
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/byte-prashant/leet_code/tree/master/1833-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2270-number-of-ways-to-split-array](https://github.com/byte-prashant/leet_code/tree/master/2270-number-of-ways-to-split-array) |
 ## Linked List
 |  |
 | ------- |
