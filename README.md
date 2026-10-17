@@ -151,6 +151,7 @@ solutions to leet code problem
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/byte-prashant/leet_code/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1710-maximum-units-on-a-truck](https://github.com/byte-prashant/leet_code/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/byte-prashant/leet_code/tree/master/1833-find-the-highest-altitude) |
@@ -259,6 +260,7 @@ solutions to leet code problem
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/byte-prashant/leet_code/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/byte-prashant/leet_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/byte-prashant/leet_code/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/byte-prashant/leet_code/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/byte-prashant/leet_code/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/byte-prashant/leet_code/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -510,6 +512,7 @@ solutions to leet code problem
 | [1221-split-a-string-in-balanced-strings](https://github.com/byte-prashant/leet_code/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/byte-prashant/leet_code/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1642-furthest-building-you-can-reach](https://github.com/byte-prashant/leet_code/tree/master/1642-furthest-building-you-can-reach) |
+| [1710-maximum-units-on-a-truck](https://github.com/byte-prashant/leet_code/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/byte-prashant/leet_code/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
