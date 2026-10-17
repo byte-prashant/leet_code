@@ -95,6 +95,7 @@ solutions to leet code problem
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/byte-prashant/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/byte-prashant/leet_code/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/byte-prashant/leet_code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -493,6 +494,7 @@ solutions to leet code problem
 | [0349-intersection-of-two-arrays](https://github.com/byte-prashant/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/byte-prashant/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/byte-prashant/leet_code/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/byte-prashant/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -505,6 +507,7 @@ solutions to leet code problem
 | [0011-container-with-most-water](https://github.com/byte-prashant/leet_code/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/byte-prashant/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/byte-prashant/leet_code/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/byte-prashant/leet_code/tree/master/0630-course-schedule-iii) |
@@ -547,6 +550,7 @@ solutions to leet code problem
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/byte-prashant/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/byte-prashant/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/byte-prashant/leet_code/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/byte-prashant/leet_code/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1004-max-consecutive-ones-iii) |
@@ -642,6 +646,7 @@ solutions to leet code problem
 | [0322-coin-change](https://github.com/byte-prashant/leet_code/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/byte-prashant/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/byte-prashant/leet_code/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/byte-prashant/leet_code/tree/master/0494-target-sum) |
