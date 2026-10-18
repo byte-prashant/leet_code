@@ -158,6 +158,7 @@ solutions to leet code problem
 | [1833-find-the-highest-altitude](https://github.com/byte-prashant/leet_code/tree/master/1833-find-the-highest-altitude) |
 | [1834-single-threaded-cpu](https://github.com/byte-prashant/leet_code/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/byte-prashant/leet_code/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1882-process-tasks-using-servers](https://github.com/byte-prashant/leet_code/tree/master/1882-process-tasks-using-servers) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/byte-prashant/leet_code/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -504,6 +505,7 @@ solutions to leet code problem
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/byte-prashant/leet_code/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/byte-prashant/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Greedy
 |  |
