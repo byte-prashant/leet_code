@@ -383,6 +383,7 @@ solutions to leet code problem
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/byte-prashant/leet_code/tree/master/0263-ugly-number) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/byte-prashant/leet_code/tree/master/1512-number-of-good-pairs) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/byte-prashant/leet_code/tree/master/1759-count-number-of-homogenous-substrings) |
