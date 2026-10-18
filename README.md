@@ -167,6 +167,7 @@ solutions to leet code problem
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/byte-prashant/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/byte-prashant/leet_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -502,6 +503,7 @@ solutions to leet code problem
 | [1046-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/byte-prashant/leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/byte-prashant/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Greedy
 |  |
 | ------- |
