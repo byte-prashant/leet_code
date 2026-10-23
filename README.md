@@ -188,6 +188,7 @@ solutions to leet code problem
 | [2788-split-strings-by-separator](https://github.com/byte-prashant/leet_code/tree/master/2788-split-strings-by-separator) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/byte-prashant/leet_code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/byte-prashant/leet_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -703,6 +704,7 @@ solutions to leet code problem
 | [0287-find-the-duplicate-number](https://github.com/byte-prashant/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/byte-prashant/leet_code/tree/master/2478-longest-nice-subarray) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/byte-prashant/leet_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String Matching
 |  |
 | ------- |
