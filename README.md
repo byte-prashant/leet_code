@@ -353,6 +353,7 @@ solutions to leet code problem
 | [0042-trapping-rain-water](https://github.com/byte-prashant/leet_code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/byte-prashant/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/byte-prashant/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/byte-prashant/leet_code/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
@@ -678,6 +679,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/byte-prashant/leet_code/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/byte-prashant/leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
