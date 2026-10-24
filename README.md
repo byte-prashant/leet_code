@@ -380,6 +380,7 @@ solutions to leet code problem
 | [0048-rotate-image](https://github.com/byte-prashant/leet_code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/byte-prashant/leet_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/byte-prashant/leet_code/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/byte-prashant/leet_code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/byte-prashant/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/byte-prashant/leet_code/tree/master/0189-rotate-array) |
@@ -491,6 +492,7 @@ solutions to leet code problem
 | [0033-search-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/byte-prashant/leet_code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/byte-prashant/leet_code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/byte-prashant/leet_code/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/byte-prashant/leet_code/tree/master/0162-find-peak-element) |
@@ -1026,4 +1028,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/byte-prashant/leet_code/tree/master/2050-parallel-courses-iii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/byte-prashant/leet_code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
