@@ -311,6 +311,7 @@ solutions to leet code problem
 | [0387-first-unique-character-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/byte-prashant/leet_code/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/byte-prashant/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/byte-prashant/leet_code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/byte-prashant/leet_code/tree/master/0451-sort-characters-by-frequency) |
@@ -357,6 +358,7 @@ solutions to leet code problem
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/byte-prashant/leet_code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
@@ -519,6 +521,7 @@ solutions to leet code problem
 | [0011-container-with-most-water](https://github.com/byte-prashant/leet_code/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/byte-prashant/leet_code/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/byte-prashant/leet_code/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/byte-prashant/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/byte-prashant/leet_code/tree/master/0605-can-place-flowers) |
@@ -846,6 +849,7 @@ solutions to leet code problem
 | ------- |
 | [0042-trapping-rain-water](https://github.com/byte-prashant/leet_code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/byte-prashant/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/byte-prashant/leet_code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/byte-prashant/leet_code/tree/master/0907-sum-of-subarray-minimums) |
