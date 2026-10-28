@@ -190,6 +190,7 @@ solutions to leet code problem
 | [2788-split-strings-by-separator](https://github.com/byte-prashant/leet_code/tree/master/2788-split-strings-by-separator) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/byte-prashant/leet_code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3638-maximum-balanced-shipments](https://github.com/byte-prashant/leet_code/tree/master/3638-maximum-balanced-shipments) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/byte-prashant/leet_code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -381,6 +382,7 @@ solutions to leet code problem
 | [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
+| [3638-maximum-balanced-shipments](https://github.com/byte-prashant/leet_code/tree/master/3638-maximum-balanced-shipments) |
 ## Math
 |  |
 | ------- |
@@ -554,6 +556,7 @@ solutions to leet code problem
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2591-distribute-money-to-maximum-children](https://github.com/byte-prashant/leet_code/tree/master/2591-distribute-money-to-maximum-children) |
 | [2938-separate-black-and-white-balls](https://github.com/byte-prashant/leet_code/tree/master/2938-separate-black-and-white-balls) |
+| [3638-maximum-balanced-shipments](https://github.com/byte-prashant/leet_code/tree/master/3638-maximum-balanced-shipments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -692,6 +695,7 @@ solutions to leet code problem
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/byte-prashant/leet_code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2050-parallel-courses-iii](https://github.com/byte-prashant/leet_code/tree/master/2050-parallel-courses-iii) |
+| [3638-maximum-balanced-shipments](https://github.com/byte-prashant/leet_code/tree/master/3638-maximum-balanced-shipments) |
 ## Design
 |  |
 | ------- |
@@ -871,6 +875,7 @@ solutions to leet code problem
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/byte-prashant/leet_code/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
+| [3638-maximum-balanced-shipments](https://github.com/byte-prashant/leet_code/tree/master/3638-maximum-balanced-shipments) |
 ## Breadth-First Search
 |  |
 | ------- |
