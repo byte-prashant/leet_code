@@ -101,6 +101,7 @@ solutions to leet code problem
 | [0442-find-all-duplicates-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/byte-prashant/leet_code/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/byte-prashant/leet_code/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/byte-prashant/leet_code/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/byte-prashant/leet_code/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/byte-prashant/leet_code/tree/master/0487-max-consecutive-ones-ii) |
@@ -363,6 +364,7 @@ solutions to leet code problem
 | [0316-remove-duplicate-letters](https://github.com/byte-prashant/leet_code/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/byte-prashant/leet_code/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/byte-prashant/leet_code/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
@@ -513,6 +515,7 @@ solutions to leet code problem
 | [0350-intersection-of-two-arrays-ii](https://github.com/byte-prashant/leet_code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/byte-prashant/leet_code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/byte-prashant/leet_code/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/byte-prashant/leet_code/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/byte-prashant/leet_code/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/byte-prashant/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -773,6 +776,7 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/byte-prashant/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/byte-prashant/leet_code/tree/master/0456-132-pattern) |
 ## Data Stream
 |  |
 | ------- |
@@ -860,6 +864,7 @@ solutions to leet code problem
 | [0084-largest-rectangle-in-histogram](https://github.com/byte-prashant/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/byte-prashant/leet_code/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/byte-prashant/leet_code/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/byte-prashant/leet_code/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/byte-prashant/leet_code/tree/master/0907-sum-of-subarray-minimums) |
