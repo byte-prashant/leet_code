@@ -188,6 +188,7 @@ solutions to leet code problem
 | [2478-longest-nice-subarray](https://github.com/byte-prashant/leet_code/tree/master/2478-longest-nice-subarray) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/byte-prashant/leet_code/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/byte-prashant/leet_code/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2788-split-strings-by-separator](https://github.com/byte-prashant/leet_code/tree/master/2788-split-strings-by-separator) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/byte-prashant/leet_code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/byte-prashant/leet_code/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -281,6 +282,7 @@ solutions to leet code problem
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/byte-prashant/leet_code/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/byte-prashant/leet_code/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## String
 |  |
 | ------- |
@@ -490,6 +492,7 @@ solutions to leet code problem
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2478-longest-nice-subarray](https://github.com/byte-prashant/leet_code/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/byte-prashant/leet_code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/byte-prashant/leet_code/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2890-count-substrings-without-repeating-character](https://github.com/byte-prashant/leet_code/tree/master/2890-count-substrings-without-repeating-character) |
 ## Recursion
 |  |
@@ -528,6 +531,7 @@ solutions to leet code problem
 | [1838-frequency-of-the-most-frequent-element](https://github.com/byte-prashant/leet_code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/byte-prashant/leet_code/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/byte-prashant/leet_code/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/byte-prashant/leet_code/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Greedy
 |  |
 | ------- |
