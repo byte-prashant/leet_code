@@ -175,6 +175,7 @@ solutions to leet code problem
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/byte-prashant/leet_code/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/byte-prashant/leet_code/tree/master/2270-number-of-ways-to-split-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/byte-prashant/leet_code/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/byte-prashant/leet_code/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/byte-prashant/leet_code/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/byte-prashant/leet_code/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/byte-prashant/leet_code/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -276,6 +277,7 @@ solutions to leet code problem
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/byte-prashant/leet_code/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/byte-prashant/leet_code/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/byte-prashant/leet_code/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/byte-prashant/leet_code/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -552,6 +554,7 @@ solutions to leet code problem
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/byte-prashant/leet_code/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2245-destroying-asteroids](https://github.com/byte-prashant/leet_code/tree/master/2245-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/byte-prashant/leet_code/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/byte-prashant/leet_code/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/byte-prashant/leet_code/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/byte-prashant/leet_code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2591-distribute-money-to-maximum-children](https://github.com/byte-prashant/leet_code/tree/master/2591-distribute-money-to-maximum-children) |
