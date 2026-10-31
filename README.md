@@ -132,6 +132,7 @@ solutions to leet code problem
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/byte-prashant/leet_code/tree/master/0941-valid-mountain-array) |
+| [0946-validate-stack-sequences](https://github.com/byte-prashant/leet_code/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
@@ -378,6 +379,7 @@ solutions to leet code problem
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/byte-prashant/leet_code/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/byte-prashant/leet_code/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1598-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1598-crawler-log-folder) |
@@ -630,6 +632,7 @@ solutions to leet code problem
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/byte-prashant/leet_code/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/byte-prashant/leet_code/tree/master/0885-spiral-matrix-iii) |
+| [0946-validate-stack-sequences](https://github.com/byte-prashant/leet_code/tree/master/0946-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
