@@ -1,38 +1,36 @@
 class Solution:
     def decodeString(self, s: str) -> str:
 
-        def decode(index):
-            stack = []
-            curr_str = ""
+
+        def sol(pos):
+            ans = ""
             num = 0
-            for c in s:
-                if c.isdigit():
-                    num =num *10 + int(c)
 
-                elif c =="[":
-                    stack.append(num)
-                    stack.append(curr_str)
-                    num = 0
-                    curr_str = ""
-                elif c == "]":
-                    prev_str = stack.pop()
-                    freq = stack.pop()
+            while pos<len(s):
+                ch = s[pos]
+                if ch=="[":
+
+                    sub_str,pos = sol(pos+1)
+                    if num>0:
+                        for _ in range(num):
+                            ans+=sub_str
+                        num = 0
                     
-                    curr_str = prev_str + curr_str * freq
-
+                    continue
                 else:
-                    curr_str += c
 
+                    if ch.isdigit():
+                        num =num*10+int(ch)
 
-                print(curr_str)
+                    elif ch.isalpha():
+                        ans+=ch
+                    else:
 
+                        return ans,pos+1
+                pos+=1
 
-            # while stack:
-            #     curr_str = stack.pop() + curr_str
+            return ans,pos
 
-            
+        return sol(0)[0]
 
-            return curr_str
-
-
-        return decode(0)
+        
