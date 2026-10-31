@@ -16,7 +16,9 @@ class Solution:
                     if ch.isupper():
                         if current_elem:
                             current_elem_count= max(current_elem_count,1)
-                            element_freq.update({current_elem:current_elem_count})
+                            element_freq[current_elem] = (
+    element_freq.get(current_elem, 0) + current_elem_count
+)
                             current_elem_count=0
                             current_elem = ch
                         else:
@@ -81,7 +83,7 @@ class Solution:
 
         return ans
 
-class Solution:
+class Solutionb:
     def countOfAtoms(self, formula: str) -> str:
 
         def sol(pos):
@@ -168,3 +170,56 @@ class Solution:
                 ans += str(freq[key])
 
         return ans
+
+
+from collections import defaultdict
+
+class Solution:
+    def countOfAtoms(self, formula: str) -> str:
+
+        n = len(formula)
+
+        def sol(pos):
+            freq = defaultdict(int)
+
+            while pos < n and formula[pos] != ")":
+
+                if formula[pos] == "(":
+                    sub_freq, pos = sol(pos + 1)
+
+                    mul = 0
+                    while pos < n and formula[pos].isdigit():
+                        mul = mul * 10 + int(formula[pos])
+                        pos += 1
+
+                    mul = mul or 1
+
+                    for atom, count in sub_freq.items():
+                        freq[atom] += count * mul
+
+                else:
+                    atom = formula[pos]
+                    pos += 1
+
+                    while pos < n and formula[pos].islower():
+                        atom += formula[pos]
+                        pos += 1
+
+                    count = 0
+                    while pos < n and formula[pos].isdigit():
+                        count = count * 10 + int(formula[pos])
+                        pos += 1
+
+                    freq[atom] += count or 1
+
+            if pos < n and formula[pos] == ")":
+                pos += 1
+
+            return freq, pos
+
+        freq, _ = sol(0)
+
+        return "".join(
+            atom + (str(freq[atom]) if freq[atom] > 1 else "")
+            for atom in sorted(freq)
+        )
