@@ -352,6 +352,7 @@ solutions to leet code problem
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/byte-prashant/leet_code/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/byte-prashant/leet_code/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2211-count-collisions-on-a-road](https://github.com/byte-prashant/leet_code/tree/master/2211-count-collisions-on-a-road) |
 | [2351-first-letter-to-appear-twice](https://github.com/byte-prashant/leet_code/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/byte-prashant/leet_code/tree/master/2418-sort-the-people) |
@@ -393,6 +394,7 @@ solutions to leet code problem
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/byte-prashant/leet_code/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
+| [2211-count-collisions-on-a-road](https://github.com/byte-prashant/leet_code/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
 | [3638-maximum-balanced-shipments](https://github.com/byte-prashant/leet_code/tree/master/3638-maximum-balanced-shipments) |
@@ -639,6 +641,7 @@ solutions to leet code problem
 | [0946-validate-stack-sequences](https://github.com/byte-prashant/leet_code/tree/master/0946-validate-stack-sequences) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/byte-prashant/leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2211-count-collisions-on-a-road](https://github.com/byte-prashant/leet_code/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/byte-prashant/leet_code/tree/master/2460-apply-operations-to-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/byte-prashant/leet_code/tree/master/2470-removing-stars-from-a-string) |
