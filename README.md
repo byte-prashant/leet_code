@@ -163,6 +163,7 @@ solutions to leet code problem
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/byte-prashant/leet_code/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1882-process-tasks-using-servers](https://github.com/byte-prashant/leet_code/tree/master/1882-process-tasks-using-servers) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/byte-prashant/leet_code/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/byte-prashant/leet_code/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/byte-prashant/leet_code/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2050-parallel-courses-iii](https://github.com/byte-prashant/leet_code/tree/master/2050-parallel-courses-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
@@ -388,6 +389,7 @@ solutions to leet code problem
 | [1720-crawler-log-folder](https://github.com/byte-prashant/leet_code/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/byte-prashant/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/byte-prashant/leet_code/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/byte-prashant/leet_code/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/byte-prashant/leet_code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/byte-prashant/leet_code/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
@@ -890,6 +892,7 @@ solutions to leet code problem
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/byte-prashant/leet_code/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/byte-prashant/leet_code/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/byte-prashant/leet_code/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2104-sum-of-subarray-ranges](https://github.com/byte-prashant/leet_code/tree/master/2104-sum-of-subarray-ranges) |
 | [3638-maximum-balanced-shipments](https://github.com/byte-prashant/leet_code/tree/master/3638-maximum-balanced-shipments) |
