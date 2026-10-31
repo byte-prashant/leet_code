@@ -317,6 +317,7 @@ solutions to leet code problem
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/byte-prashant/leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/byte-prashant/leet_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0385-mini-parser](https://github.com/byte-prashant/leet_code/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/byte-prashant/leet_code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
@@ -370,6 +371,7 @@ solutions to leet code problem
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/byte-prashant/leet_code/tree/master/0316-remove-duplicate-letters) |
+| [0385-mini-parser](https://github.com/byte-prashant/leet_code/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/byte-prashant/leet_code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/byte-prashant/leet_code/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/byte-prashant/leet_code/tree/master/0456-132-pattern) |
@@ -831,6 +833,7 @@ solutions to leet code problem
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/byte-prashant/leet_code/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
+| [0385-mini-parser](https://github.com/byte-prashant/leet_code/tree/master/0385-mini-parser) |
 | [0417-pacific-atlantic-water-flow](https://github.com/byte-prashant/leet_code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/byte-prashant/leet_code/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/byte-prashant/leet_code/tree/master/0543-diameter-of-binary-tree) |
