@@ -123,6 +123,7 @@ solutions to leet code problem
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/byte-prashant/leet_code/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/byte-prashant/leet_code/tree/master/0752-open-the-lock) |
+| [0769-max-chunks-to-make-sorted](https://github.com/byte-prashant/leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/byte-prashant/leet_code/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/byte-prashant/leet_code/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
@@ -265,6 +266,7 @@ solutions to leet code problem
 | [0630-course-schedule-iii](https://github.com/byte-prashant/leet_code/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/byte-prashant/leet_code/tree/master/0726-number-of-atoms) |
+| [0769-max-chunks-to-make-sorted](https://github.com/byte-prashant/leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/byte-prashant/leet_code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/byte-prashant/leet_code/tree/master/0922-sort-array-by-parity-ii) |
@@ -381,6 +383,7 @@ solutions to leet code problem
 | [0726-number-of-atoms](https://github.com/byte-prashant/leet_code/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/byte-prashant/leet_code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/byte-prashant/leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/byte-prashant/leet_code/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/byte-prashant/leet_code/tree/master/0946-validate-stack-sequences) |
@@ -557,6 +560,7 @@ solutions to leet code problem
 | [0605-can-place-flowers](https://github.com/byte-prashant/leet_code/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/byte-prashant/leet_code/tree/master/0630-course-schedule-iii) |
 | [0680-valid-palindrome-ii](https://github.com/byte-prashant/leet_code/tree/master/0680-valid-palindrome-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/byte-prashant/leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/byte-prashant/leet_code/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/byte-prashant/leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -893,6 +897,7 @@ solutions to leet code problem
 | [0456-132-pattern](https://github.com/byte-prashant/leet_code/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/byte-prashant/leet_code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/byte-prashant/leet_code/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/byte-prashant/leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/byte-prashant/leet_code/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/byte-prashant/leet_code/tree/master/1944-number-of-visible-people-in-a-queue) |
