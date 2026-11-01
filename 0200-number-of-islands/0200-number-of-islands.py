@@ -13,6 +13,7 @@ class Solution:
 
         def col_to_parent(col):
             return col
+            
         def get_node_index(row,col):
 
             return row*col_in_grid + col
@@ -63,7 +64,7 @@ class Solution:
         for node  in size:
             if node>0:
                 count+=1
-        print(size)
+        #print(size)
         return count
                     
 
