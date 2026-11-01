@@ -138,6 +138,7 @@ solutions to leet code problem
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/byte-prashant/leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/byte-prashant/leet_code/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/byte-prashant/leet_code/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/byte-prashant/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/byte-prashant/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/byte-prashant/leet_code/tree/master/1020-number-of-enclaves) |
@@ -466,6 +467,7 @@ solutions to leet code problem
 | [0752-open-the-lock](https://github.com/byte-prashant/leet_code/tree/master/0752-open-the-lock) |
 | [0940-fruit-into-baskets](https://github.com/byte-prashant/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/byte-prashant/leet_code/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/byte-prashant/leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/byte-prashant/leet_code/tree/master/1202-smallest-string-with-swaps) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/byte-prashant/leet_code/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -968,6 +970,7 @@ solutions to leet code problem
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/byte-prashant/leet_code/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/byte-prashant/leet_code/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/byte-prashant/leet_code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/byte-prashant/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
