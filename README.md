@@ -598,6 +598,7 @@ solutions to leet code problem
 | [0506-relative-ranks](https://github.com/byte-prashant/leet_code/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/byte-prashant/leet_code/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/byte-prashant/leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/byte-prashant/leet_code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/byte-prashant/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/byte-prashant/leet_code/tree/master/1046-last-stone-weight) |
@@ -859,6 +860,7 @@ solutions to leet code problem
 | [0695-max-area-of-island](https://github.com/byte-prashant/leet_code/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/byte-prashant/leet_code/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/byte-prashant/leet_code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -932,6 +934,7 @@ solutions to leet code problem
 | [0695-max-area-of-island](https://github.com/byte-prashant/leet_code/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/byte-prashant/leet_code/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/byte-prashant/leet_code/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/byte-prashant/leet_code/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/byte-prashant/leet_code/tree/master/0752-open-the-lock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
@@ -967,6 +970,7 @@ solutions to leet code problem
 | [0310-minimum-height-trees](https://github.com/byte-prashant/leet_code/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/byte-prashant/leet_code/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/byte-prashant/leet_code/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/byte-prashant/leet_code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/byte-prashant/leet_code/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/byte-prashant/leet_code/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1021,6 +1025,7 @@ solutions to leet code problem
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/byte-prashant/leet_code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/byte-prashant/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Biconnected Component
 |  |
@@ -1094,4 +1099,8 @@ solutions to leet code problem
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/byte-prashant/leet_code/tree/master/0069-sqrtx) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/byte-prashant/leet_code/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
