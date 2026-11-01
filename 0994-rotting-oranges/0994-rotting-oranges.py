@@ -99,6 +99,28 @@ class Solution:
                             fresh_oranges[0]-=1
                             queue.append((new_x,new_y,time+1))
             return
+
+        
+        def bfs(queue,fresh_oranges):
+
+            while queue:
+                length = len(queue)
+                is_rott_orange = False
+                for _ in range(length):
+                    x,y,time = queue.pop(0)
+                    
+                    for neighbour in directions:
+                        new_x,new_y = x+neighbour[0],y+neighbour[1]
+                        if is_valid(new_x,new_y) and grid[new_x][new_y]  ==1:
+                            grid[new_x][new_y] = 2
+
+                            is_rott_orange = True
+                            
+                            fresh_oranges[0]-=1
+                            queue.append((new_x,new_y,time+1))
+                if is_rott_orange:
+                    ans[0] = ans[0]+1
+            return
         #print(ans)
         bfs(queue,fresh_oranges)
         if fresh_oranges[0]==0:
