@@ -315,6 +315,7 @@ solutions to leet code problem
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/byte-prashant/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/byte-prashant/leet_code/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/byte-prashant/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/byte-prashant/leet_code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/byte-prashant/leet_code/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/byte-prashant/leet_code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -733,6 +734,7 @@ solutions to leet code problem
 | ------- |
 | [0146-lru-cache](https://github.com/byte-prashant/leet_code/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/byte-prashant/leet_code/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/byte-prashant/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/byte-prashant/leet_code/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/byte-prashant/leet_code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
@@ -803,6 +805,7 @@ solutions to leet code problem
 | [0014-longest-common-prefix](https://github.com/byte-prashant/leet_code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/byte-prashant/leet_code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/byte-prashant/leet_code/tree/master/0140-word-break-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/byte-prashant/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Merge Sort
 |  |
 | ------- |
@@ -846,6 +849,7 @@ solutions to leet code problem
 | [0200-number-of-islands](https://github.com/byte-prashant/leet_code/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/byte-prashant/leet_code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/byte-prashant/leet_code/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/byte-prashant/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/byte-prashant/leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/byte-prashant/leet_code/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/byte-prashant/leet_code/tree/master/0337-house-robber-iii) |
